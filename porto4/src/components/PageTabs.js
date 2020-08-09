@@ -25,7 +25,7 @@ export default class PageTabs extends React.Component {
             onClick={event => this.onTabClick(event, '/')}
             style={{ textDecoration: 'none' }}
             >
-              Home
+              S
           </Link>    
           </h1>
           <div className="nav-item-wrapper">
