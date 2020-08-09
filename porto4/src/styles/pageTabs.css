@@ -30,14 +30,13 @@ html {
     font-weight: 900;
 	color: #d3d1d1;
     margin:0;
-    padding-top: 2.2vw;
+    padding-top: 2vw;
     border-radius: 7px;
-    padding-right: 2.2vw;
+    padding-right: 2vw;
     padding-left: 3px;
-    margin-bottom: -5px;
     background-color: #D94558;
     margin-top: 2.5vh;
-    margin-left: 10vw;
+    margin-left: 5vw;
     transition: background .2s ease-in;
 }
 #nav-title {
@@ -66,7 +65,7 @@ html {
     flex-direction: row;
     margin-left: auto;
     margin-top: 5vh;
-    margin-right: 15vw;
+    margin-right: 5vw;
     text-decoration: none;
 }
 .nav-item {
@@ -84,7 +83,7 @@ html {
     opacity: .3;
     transition: .2s;
     font-family: 'Lato', Helvetica,Arial , sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     transition-timing-function: ease-in-out;
     padding: 7px;
     border-radius: 3px;
@@ -100,6 +99,7 @@ html {
 .page-tabs .nav-link.active {
     color: #D94558;
     opacity: 1;
+    font-weight: 600;
     font-family: 'Lato', Helvetica,Arial , sans-serif;
     transition: .2s;
     transition-timing-function: ease-in-out;

@@ -1,0 +1,33 @@
+.intro-wrapper {
+    width: 80vw;
+    margin-left: 8vw;
+    margin-top: 8vh;
+    height: min-content;
+}
+.intro-wrapper h3 {
+    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
+    color: #323748;
+    opacity: .8;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.intro-wrapper h1 {
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    color: #323748;
+    font-weight: 900;
+    margin: 0;
+    font-size: 5.8rem;
+}
+.second-title {
+    margin-top: -1vh!important;
+}
+.intro-wrapper h4 {
+    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
+    color: #323748;
+    opacity: .8;
+    width: 65%;
+    line-height: 5vh;
+    font-size: 1.5rem;
+    margin-top: 5vh;
+    font-weight: 100;
+}
