@@ -2,6 +2,7 @@
     width: 40vw;
     height: min-content;
     margin-left: 8vw;
+    margin-top: 8vh;
     display: flex;
     flex-direction: row;
 }
@@ -9,11 +10,19 @@
     display: flex;
     flex: 1;
     margin: 0;
-    font-size: 1.2rem;
-    padding: .5rem;
+    font-size: 1.1rem;
+    padding: .4rem;
     font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
     background-color: #ebebeb;
-    color: #858383
+    color: #858383;
+    transition: .3s;
+}
+.filter-tab:hover {
+    cursor: pointer;
+    background-color: #D94558;    
+    font-weight: 500;
+    color: #fafafa;
+    transition: .3s;
 }
 .first-tab {
     border-top-left-radius: 3px;
