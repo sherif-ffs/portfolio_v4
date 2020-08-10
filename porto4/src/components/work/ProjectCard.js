@@ -19,7 +19,9 @@ export default class ProjectCard extends React.Component {
                     easing: "linear"
                 }} */}
                 
-                    <div className="thumbnail"></div>
+                    <div className="thumbnail">
+                        <img src={this.props.thumbnail}></img>
+                    </div>
                     <h1>{this.props.name}</h1>
                     <h3>{this.props.type}</h3>
                 {/* </Anime> */}

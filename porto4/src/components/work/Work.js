@@ -121,6 +121,7 @@ export default class Work extends React.Component {
                             live={project.live}
                             type={project.type}
                             github={project.github}
+                            thumbnail={project.thumbnail}
                             tags={project.tags}
                         >
                         </ProjectCard>

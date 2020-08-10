@@ -7,6 +7,7 @@ import Resume from './components/about/Resume'
 import Work from './components/work/Work'
 import Test from './components/test'
 
+import map from './assets/map.png'
 class App extends React.Component {
 
   state = {
@@ -19,7 +20,7 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/we-are-number-1.github.io',
         live: 'https://sherif-ffs.github.io/we-are-number-1.github.io/',
         blurb: 'Comparing countries on 30+ different metrics.',
-        thumbnail: ''
+        thumbnail: map
       },
       {
         name: "Visualize the World's Wealth",
