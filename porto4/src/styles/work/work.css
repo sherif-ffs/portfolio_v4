@@ -1,0 +1,9 @@
+.projects-wrappers {
+    border: 1px solid blue;
+    width: 92vw;
+    margin-left: 8vw;
+    margin-top: 3vh;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,30 @@
+.filter-wrappers {
+    width: 40vw;
+    height: min-content;
+    margin-left: 8vw;
+    display: flex;
+    flex-direction: row;
+}
+.filter-tab {
+    display: flex;
+    flex: 1;
+    margin: 0;
+    font-size: 1.2rem;
+    padding: .5rem;
+    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
+    background-color: #ebebeb;
+    color: #858383
+}
+.first-tab {
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+.last-tab {
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;  
+}
+.active-filter-tab {
+    background-color: #D94558;
+    font-weight: 500;
+    color: #fafafa;
+}

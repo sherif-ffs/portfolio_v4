@@ -14,7 +14,7 @@ class App extends React.Component {
       {
         name: "We're #1",
         id: 1,
-        type: 'Data Viz',
+        type: 'data viz',
         tags: ['data vizualization', 'd3.js', 'svg', 'topojson'],
         github: 'https://github.com/sherif-ffs/we-are-number-1.github.io',
         live: 'https://sherif-ffs.github.io/we-are-number-1.github.io/',

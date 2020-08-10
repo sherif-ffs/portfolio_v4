@@ -1,0 +1,19 @@
+.project-card-wrapper {
+    border: 1px solid red;
+    width: 31.5%;
+    height: 400px;
+    margin: .5vw;
+    display: flex;
+    flex-direction: column;
+}
+.thumbnail {
+    height: 70%;
+    background-color: #90C0E0;
+}
+.project-card-wrapper h1 {
+    font-size: 1.3rem;
+    margin-top: 3vh;
+    margin-left: 1vw;
+    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
+    color: #323748;
+}
