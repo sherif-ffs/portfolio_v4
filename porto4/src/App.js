@@ -6,6 +6,7 @@ import About from './components/about/About'
 import Resume from './components/about/Resume'
 import Work from './components/work/Work'
 import Test from './components/test'
+import Hmm from './components/hmm'
 
 import map from './assets/map.png'
 class App extends React.Component {
@@ -20,7 +21,8 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/we-are-number-1.github.io',
         live: 'https://sherif-ffs.github.io/we-are-number-1.github.io/',
         blurb: 'Comparing countries on 30+ different metrics.',
-        thumbnail: map
+        thumbnail: map,
+        project: null
       },
       {
         name: "Visualize the World's Wealth",
@@ -30,7 +32,8 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/wealth.github.io',
         live: 'https://sherif-ffs.github.io/wealth.github.io/',
         blurb: 'There’s a lot of money in the world, I built this website to see who owns what.',
-        thumbnail: ''
+        thumbnail: map,
+        project: null
       },
       {
         name: "LaunchPad",
@@ -40,7 +43,8 @@ class App extends React.Component {
         github: null,
         live: null,
         blurb: 'There’s a lot of money in the world, I built this website to see who owns what.',
-        thumbnail: ''
+        thumbnail: '',
+        project: 'launchpad'
       },
       {
         name: "You're Not Yelping",
@@ -50,7 +54,8 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/react-redux-yelp-clone',
         live: 'https://yourenotyelping.netlify.app/',
         blurb: 'Yelp clone built using React.js, Redux, Material UI, React-Router, and Map gl',
-        thumbnail: ''
+        thumbnail: '',
+        project: null
       },
       {
         name: "Third-Party Marketplace",
@@ -60,7 +65,8 @@ class App extends React.Component {
         github: null,
         live: null,
         blurb: 'Third-Party Marketplace redesign.',
-        thumbnail: ''
+        thumbnail: '',
+        project: 'tpm'
       },
       {
         name: "Heddit",
@@ -70,7 +76,8 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/flask-reddit-clone',
         live: null,
         blurb: 'Reddit clone built using Flask, Jinja, and SQLAlchemy.',
-        thumbnail: ''
+        thumbnail: '',
+        project: null
       },
     ]
   }
@@ -90,8 +97,11 @@ class App extends React.Component {
              <Route path="/resume"
               render={(routeProps) => <Resume {...routeProps} />}
              />
-             <Route path="/test" 
+             <Route path="/projects/launchpad" 
               render={(routeProps) => <Test {...routeProps} />}
+              />
+              <Route path="/projects/tpm" 
+              render={(routeProps) => <Hmm {...routeProps} />}
               />
           </div>
         </BrowserRouter>

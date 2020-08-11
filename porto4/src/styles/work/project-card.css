@@ -1,15 +1,20 @@
 .project-card-wrapper {
-    width: 31.5%;
-    height: 400px;
+    width: 420px;
+    height: 475px;
     margin: .5vw;
     margin-top: 2vh;
     display: flex;
     flex-direction: column;
     box-shadow: #323748;
     box-shadow: 0px 1px 5px rgba(34, 34, 34, 0.3);
+    transition: .2s;
+}
+.project-card-wrapper:hover {
+    box-shadow: 0px 3px 5px rgba(34, 34, 34, 0.6);
+    transition: .2s;
 }
 .thumbnail {
-    height: 65%;
+    height: 250px;
     background-color: rgb(195, 216, 230);
 }
 .thumbnail img {
@@ -22,4 +27,76 @@
     margin-left: 1vw;
     font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
     color: #323748;
+}
+.project-card-wrapper h3 {
+    font-size: 1rem;
+    margin-top: -2vh;
+    margin-left: 1vw;
+    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
+    color: #323748;
+    opacity: .8;
+}
+.tags-wrapper {
+    display: flex; 
+    flex-direction: row;
+    margin-left: .6vw;
+    margin-top: -3vh;
+}
+.tag {
+    font-size: 1rem;
+    margin-left: .4vw;
+    font-weight: 500;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    color: #323748;
+    opacity: .7;
+}
+.card-blurb {
+    margin-left: 1vw;
+    margin-top: 1vh;
+    font-size: 1.1rem;
+    font-weight: 500;
+    width: 85%;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    color: #323748;
+    opacity: .7;
+}
+.links-wrapper {
+    margin-left: 1vw;
+    margin-top: auto;
+    margin-bottom: 2vh;
+}
+.icon {
+    color: #323748;
+    transition: .2s;
+}
+.icon:hover {
+    transition: .2s;
+    color: #D94558;
+}
+.second-icon {
+    margin-left: 1vw;
+}
+.hidden-icon {
+    visibility: hidden;
+}
+.view-case-study {
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    color: #fafafa;
+    text-decoration: none!important;
+    text-decoration-color: #D94558;
+    text-decoration-style: none; 
+    font-size: .85rem;
+    background-color: #D94558;
+    padding: 8px;
+    border-radius: 3px;
+    border: 1px solid red;
+    width: 25%;
+    /* margin-top: 2vh; */
+    margin-top: auto;
+    margin-bottom: -.25vh;
+}
+.view-case {
+    text-decoration: none!important;
+    text-decoration-color: #D94558;
+    text-decoration-style: none; 
 }

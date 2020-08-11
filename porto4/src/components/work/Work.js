@@ -72,6 +72,7 @@ export default class Work extends React.Component {
         let projects
         if (this.state.projects !== undefined) {
             projects = this.state.projects.map((project, index) => {
+                console.log('project: ', project)
                 return(
                     <ProjectCard 
                         key={index}
@@ -82,6 +83,7 @@ export default class Work extends React.Component {
                         type={project.type}
                         github={project.github}
                         tags={project.tags}
+                        project={project.project}
                     >
                     </ProjectCard>
                 )
@@ -123,6 +125,7 @@ export default class Work extends React.Component {
                             github={project.github}
                             thumbnail={project.thumbnail}
                             tags={project.tags}
+                            project={project.project}
                         >
                         </ProjectCard>
                     )
