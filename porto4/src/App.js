@@ -8,7 +8,10 @@ import Work from './components/work/Work'
 import Test from './components/test'
 import Hmm from './components/hmm'
 
-import map from './assets/map.png'
+import map from './assets/map.svg'
+import wealth from './assets/realwealth.svg'
+import heddit from './assets/heddit.svg'
+import food from './assets/food.svg'
 class App extends React.Component {
 
   state = {
@@ -20,9 +23,11 @@ class App extends React.Component {
         tags: ['data vizualization', 'd3.js', 'svg', 'topojson'],
         github: 'https://github.com/sherif-ffs/we-are-number-1.github.io',
         live: 'https://sherif-ffs.github.io/we-are-number-1.github.io/',
-        blurb: 'Comparing countries on 30+ different metrics.',
+        blurb: "If we’re number one, what exactly are we number one in? Intrigued by this question, I decided to create this project and allow users to compare countries and continents based on a whole host of different metrics."
+        ,
         thumbnail: map,
-        project: null
+        project: null,
+        color: '#d3696f'
       },
       {
         name: "Visualize the World's Wealth",
@@ -32,8 +37,9 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/wealth.github.io',
         live: 'https://sherif-ffs.github.io/wealth.github.io/',
         blurb: 'There’s a lot of money in the world, I built this website to see who owns what.',
-        thumbnail: map,
-        project: null
+        thumbnail: wealth,
+        project: null,
+        color: '#d3696f'
       },
       {
         name: "LaunchPad",
@@ -44,7 +50,8 @@ class App extends React.Component {
         live: null,
         blurb: 'There’s a lot of money in the world, I built this website to see who owns what.',
         thumbnail: '',
-        project: 'launchpad'
+        project: 'launchpad',
+        color: '#d3696f'
       },
       {
         name: "You're Not Yelping",
@@ -54,8 +61,9 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/react-redux-yelp-clone',
         live: 'https://yourenotyelping.netlify.app/',
         blurb: 'Yelp clone built using React.js, Redux, Material UI, React-Router, and Map gl',
-        thumbnail: '',
-        project: null
+        thumbnail: food,
+        project: null,
+        color: '#d3696f'
       },
       {
         name: "Third-Party Marketplace",
@@ -66,7 +74,8 @@ class App extends React.Component {
         live: null,
         blurb: 'Third-Party Marketplace redesign.',
         thumbnail: '',
-        project: 'tpm'
+        project: 'tpm',
+        color: '#d3696f'
       },
       {
         name: "Heddit",
@@ -76,8 +85,9 @@ class App extends React.Component {
         github: 'https://github.com/sherif-ffs/flask-reddit-clone',
         live: null,
         blurb: 'Reddit clone built using Flask, Jinja, and SQLAlchemy.',
-        thumbnail: '',
-        project: null
+        thumbnail: heddit,
+        project: null,
+        color: '#d3696f'
       },
     ]
   }

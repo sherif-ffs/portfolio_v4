@@ -33,7 +33,7 @@ export default class ProjectCard extends React.Component {
 
                     <h1>{this.props.name}</h1>
                     <div className="tags-wrapper">
-                        {this.props.tags.map((tag, index) => {
+                        {/* {this.props.tags.map((tag, index) => {
                             if (index == this.props.tags.length - 1) {
                                 return(
                                     <p className="tag">{tag} </p>
@@ -43,7 +43,8 @@ export default class ProjectCard extends React.Component {
                                     <p className="tag">{tag},</p>
                                 )
                             }
-                        })}
+                        })} */}
+                        <p className="tag">{this.props.tags[0]}, {this.props.tags[1]}, {this.props.tags[2]} {this.props.tags[3] ? `,${this.props.tags[3]}` : null}</p>
                     </div>
                     <p className="card-blurb">{this.props.blurb}</p>
                     <div className="links-wrapper">

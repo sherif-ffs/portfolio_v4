@@ -1,8 +1,8 @@
 .project-card-wrapper {
-    width: 420px;
+    width: 31%;
     height: 475px;
     margin: .5vw;
-    margin-top: 2vh;
+    margin-top: 8vh;
     display: flex;
     flex-direction: column;
     box-shadow: #323748;
@@ -15,7 +15,16 @@
 }
 .thumbnail {
     height: 250px;
-    background-color: rgb(195, 216, 230);
+    /* background-color: rgb(195, 216, 230); */
+}
+@media screen and (min-width: 1900px) {
+    .project-card-wrapper {
+        height: 600px;
+    }
+    .thumbnail {
+        height: 350px;
+        background-color: rgb(195, 216, 230);
+    }
 }
 .thumbnail img {
     width: 100%;
@@ -71,7 +80,7 @@
 }
 .icon:hover {
     transition: .2s;
-    color: #D94558;
+    color: #000;
 }
 .second-icon {
     margin-left: 1vw;
@@ -79,24 +88,23 @@
 .hidden-icon {
     visibility: hidden;
 }
+
 .view-case-study {
     font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
-    color: #fafafa;
-    text-decoration: none!important;
-    text-decoration-color: #D94558;
-    text-decoration-style: none; 
-    font-size: .85rem;
-    background-color: #D94558;
-    padding: 8px;
-    border-radius: 3px;
-    border: 1px solid red;
-    width: 25%;
-    /* margin-top: 2vh; */
+    color: #323748;
+    font-size: 1rem;
+    width: 45%;
     margin-top: auto;
-    margin-bottom: -.25vh;
+    font-weight: 500;
+    text-decoration: none;
+    margin-bottom: -.5vh;
+    transition: .2s;
 }
 .view-case {
-    text-decoration: none!important;
-    text-decoration-color: #D94558;
-    text-decoration-style: none; 
+    text-decoration: none;
+    transition: .2s;
+}
+.view-case:hover {
+    text-decoration: underline;
+    transition: .2s;
 }

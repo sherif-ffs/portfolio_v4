@@ -2,6 +2,7 @@ import React, { createRef, Component } from 'react'
 
 import Intro from './Intro'
 import ProjectCard from './ProjectCard'
+import TestCard from './TestCard.js'
 import FilterTabs from './FilterTabs'
 import Anime from "@mollycule/react-anime";
 import animejs, { AnimeInstance } from "animejs";
@@ -100,7 +101,7 @@ export default class Work extends React.Component {
                     filterDataViz={this.filterDataViz}
                 >
                 </FilterTabs>
-                <div className="projects-wrappers" ref={this.wrapper}>
+                {/* <div className="projects-wrappers" ref={this.wrapper}>
                     <Anime
                         in
                         duration={300}
@@ -132,6 +133,26 @@ export default class Work extends React.Component {
                     })
                     }
                     </Anime>
+                </div> */}
+                <div className="test-card-wrapper">
+                {
+                    projects = this.state.projects.map((project, index) => {
+                    return(
+                        <TestCard 
+                            key={index}
+                            name={project.name}
+                            blurb={project.blurb}
+                            id={project.id}
+                            live={project.live}
+                            type={project.type}
+                            github={project.github}
+                            thumbnail={project.thumbnail}
+                            tags={project.tags}
+                            project={project.project}
+                        >
+                        </TestCard>
+                    )
+                    })}
                 </div>
             </>
         )
