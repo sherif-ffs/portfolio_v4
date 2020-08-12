@@ -12,6 +12,11 @@ import map from './assets/map.svg'
 import wealth from './assets/realwealth.svg'
 import heddit from './assets/heddit.svg'
 import food from './assets/food.svg'
+import trello from './assets/trello.svg'
+import drones from './assets/drones.svg'
+import quentin from './assets/quentin.svg'
+import spirit from './assets/spirit.svg'
+
 class App extends React.Component {
 
   state = {
@@ -86,6 +91,66 @@ class App extends React.Component {
         live: null,
         blurb: 'Reddit clone built using Flask, Jinja, and SQLAlchemy.',
         thumbnail: heddit,
+        project: null,
+        color: '#d3696f'
+      },
+      {
+        name: "Outbound Transmissions",
+        type: 'design',
+        id: 7,
+        tags: ['ui/ux', 'figma', 'internship'],
+        github: null,
+        live: null,
+        blurb: 'As part of my summer internship I worked on the redesign of outbound transmissions manuals.',
+        thumbnail: '',
+        project: null,
+        color: '#d3696f'
+      },
+      {
+        name: "Trello Clone",
+        type: 'web development',
+        id: 8,
+        tags: ['web development', 'react.js', 'styled components'],
+        github: 'https://github.com/sherif-ffs/react-trello-clone',
+        live: 'https://is322-task-tracker.netlify.com/',
+        blurb: 'Trello Clone I built using React.js, material-ui, styled components, and React-Beautiful-DnD',
+        thumbnail: trello,
+        project: null,
+        color: '#d3696f'
+      },
+      {
+        name: "The Drone Program",
+        type: 'data viz',
+        id: 9,
+        tags: ['data visualization', 'charts.js', 'sheets.js'],
+        github: 'https://github.com/sherif-ffs/dronewar',
+        live: 'https://the-drone-program.herokuapp.com/index.html',
+        blurb: 'historical data about every reported covert united states drone strike',
+        thumbnail: drones,
+        project: null,
+        color: '#d3696f'
+      },
+      {
+        name: "Quentin Tarantino",
+        type: 'web development',
+        id: 10,
+        tags: ['web development','photoshop', 'html/css/js' ],
+        github: 'https://github.com/sherif-ffs/quentin',
+        live: 'https://quentin-tarantino.herokuapp.com/index.html',
+        blurb: `Inspired by the team at https://paravelinc.com/ I decided to copy their "The Many Faces Of" series and make a fanpage of sorts for one of my favorite directors, Quentin Tarantino`,
+        thumbnail: quentin,
+        project: null,
+        color: '#d3696f'
+      },
+      {
+        name: "Spirited Away Theme",
+        type: 'design',
+        id: 11,
+        tags: ['design','vs-code extension'],
+        github: 'https://github.com/sherif-ffs/vscode-theme',
+        live: 'https://sherif-ffs.github.io/spirited-away-site.github.io/',
+        blurb: `VS Code theme loosely based on Studio Ghibli's Spirited Away`,
+        thumbnail: spirit,
         project: null,
         color: '#d3696f'
       },

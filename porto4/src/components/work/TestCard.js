@@ -25,7 +25,12 @@ export default class TestCard extends React.Component {
                         })} */}
                         <p className="project-tag">{this.props.tags[0]}, {this.props.tags[1]}, {this.props.tags[2]} {this.props.tags[3] ? `, ${this.props.tags[3]}` : null}</p>
                     </div>
-                    <p>{this.props.blurb}</p>
+                    <p>
+                        {this.props.id == 10 
+                        ? <p>Inspired by the team at <a href="https://paravelinc.com/">Paravel</a> I decided to copy their "The Many Faces Of" series and make a fanpage of sorts for my favorite director, Quentin Tarantino</p> 
+                        : <p>{this.props.blurb}</p> 
+                        }
+                    </p>
                     <div className="card-content-links">
                     {this.props.github && this.props.live  ? 
                         <>

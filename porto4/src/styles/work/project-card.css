@@ -23,7 +23,6 @@
     }
     .thumbnail {
         height: 350px;
-        background-color: rgb(195, 216, 230);
     }
 }
 .thumbnail img {
@@ -73,14 +72,6 @@
     margin-left: 1vw;
     margin-top: auto;
     margin-bottom: 2vh;
-}
-.icon {
-    color: #323748;
-    transition: .2s;
-}
-.icon:hover {
-    transition: .2s;
-    color: #000;
 }
 .second-icon {
     margin-left: 1vw;
