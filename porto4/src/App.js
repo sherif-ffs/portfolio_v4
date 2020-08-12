@@ -7,15 +7,17 @@ import Resume from './components/about/Resume'
 import Work from './components/work/Work'
 import Test from './components/test'
 import Hmm from './components/hmm'
+import Vynd from './components/Vynd'
 
-import map from './assets/map.svg'
-import wealth from './assets/realwealth.svg'
-import heddit from './assets/heddit.svg'
-import food from './assets/food.svg'
-import trello from './assets/trello.svg'
-import drones from './assets/drones.svg'
-import quentin from './assets/quentin.svg'
-import spirit from './assets/spirit.svg'
+import map from './assets/thumbnails/map.svg'
+import wealth from './assets/thumbnails/realwealth.svg'
+import heddit from './assets/thumbnails/heddit.svg'
+import food from './assets/thumbnails/food.svg'
+import trello from './assets/thumbnails/trello.svg'
+import drones from './assets/thumbnails/drones.svg'
+import quentin from './assets/thumbnails/quentin.svg'
+import spirit from './assets/thumbnails/spirit.svg'
+import wine from './assets/thumbnails/wine.svg'
 
 class App extends React.Component {
 
@@ -154,6 +156,18 @@ class App extends React.Component {
         project: null,
         color: '#d3696f'
       },
+      {
+        name: "Vynd",
+        type: 'design',
+        id: 12,
+        tags: ['design','figma'],
+        github: null,
+        live: null,
+        blurb: `Making wine fun again!`,
+        thumbnail: wine,
+        project: 'vynd',
+        color: '#d3696f'
+      },
     ]
   }
 
@@ -177,6 +191,9 @@ class App extends React.Component {
               />
               <Route path="/projects/tpm" 
               render={(routeProps) => <Hmm {...routeProps} />}
+              />
+              <Route path="/projects/Vynd" 
+              render={(routeProps) => <Vynd {...routeProps} />}
               />
           </div>
         </BrowserRouter>

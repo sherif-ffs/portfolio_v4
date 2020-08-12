@@ -109,3 +109,13 @@ html {
     opacity: 1;
     background-color: transparent;
 }
+
+::-moz-selection { /* Code for Firefox */
+    color: #d94458;
+    background: #323748;
+  }
+  
+  ::selection {
+    color: #d94458;
+    background: #323748;
+  }

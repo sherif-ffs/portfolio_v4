@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="300" viewBox="0 0 800 300">
+  <defs>
+    <clipPath id="clip-Artboard_1">
+      <rect width="800" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-Artboard_1)">
+    <rect width="800" height="300" fill="#fff"/>
+    <text id="_01" data-name="01" transform="translate(31 71)" fill="#d34759" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">01</tspan></text>
+    <text id="Research" transform="translate(70 71)" fill="#454545" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Research</tspan></text>
+    <text id="Competitive_Analysis" data-name="Competitive Analysis" transform="translate(70 102)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Competitive Analysis</tspan></text>
+    <text id="Interviews" transform="translate(70 131)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Interviews</tspan></text>
+    <text id="Personas" transform="translate(70 160)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Personas</tspan></text>
+    <text id="_02" data-name="02" transform="translate(311 71)" fill="#d34759" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">02</tspan></text>
+    <text id="Design" transform="translate(350 71)" fill="#454545" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Design</tspan></text>
+    <text id="Informed_Brainstorming" data-name="Informed Brainstorming" transform="translate(311 102)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Informed Brainstorming</tspan></text>
+    <text id="Wireframes" transform="translate(311 160)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Wireframes</tspan></text>
+    <text id="Color_Palette" data-name="Color Palette" transform="translate(311 189)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Color Palette</tspan></text>
+    <text id="High_Fidelity_Design" data-name="High Fidelity Design" transform="translate(311 218)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">High Fidelity Design</tspan></text>
+    <text id="Interactive_Prototype" data-name="Interactive Prototype" transform="translate(311 247)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Interactive Prototype</tspan></text>
+    <text id="Sitemap" transform="translate(311 131)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Sitemap</tspan></text>
+    <text id="_03" data-name="03" transform="translate(576 71)" fill="#d34759" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="0" y="0">03</tspan></text>
+    <text id="Evaluate" transform="translate(615 71)" fill="#454545" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Evaluate</tspan></text>
+    <text id="Usability_Testing" data-name="Usability Testing" transform="translate(615 102)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Usability Testing</tspan></text>
+    <text id="Design_Iteractions" data-name="Design Iteractions" transform="translate(615 131)" fill="#454545" font-size="18" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.9"><tspan x="0" y="0">Design Iteractions</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="600" viewBox="0 0 1000 600">
+  <defs>
+    <clipPath id="clip-Questions">
+      <rect width="1000" height="600"/>
+    </clipPath>
+  </defs>
+  <g id="Questions" clip-path="url(#clip-Questions)">
+    <rect width="1000" height="600" fill="#fafafa"/>
+    <text id="Design_Goals" data-name="Design Goals" transform="translate(38 100)" fill="#454545" font-size="35" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Design Goals</tspan></text>
+    <text id="Incentivize_people_to_visit_wineries_and_wine_events." data-name="Incentivize people to visit wineries and wine events." transform="translate(38 160)" fill="#454545" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.8"><tspan x="0" y="21">Incentivize people to visit wineries and wine </tspan><tspan x="0" y="50">events.</tspan></text>
+    <text id="Help_users_learn_more_about_wine" data-name="Help users learn more about wine" transform="translate(38 421)" fill="#454545" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.8"><tspan x="0" y="0">Help users learn more about wine</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="500" height="600" transform="translate(500)" fill="#d34759" opacity="0.05"/>
+    <text id="Make_it_easy_for_people_to_discover_wine_events_that_they_may_be_interested_in." data-name="Make it easy for people to discover wine events that they may be interested in." transform="translate(38 276)" fill="#454545" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.8"><tspan x="0" y="21">Make it easy for people to discover wine </tspan><tspan x="0" y="50">events that they may be interested in.</tspan></text>
+    <text id="Questions-2" data-name="Questions" transform="translate(543 100)" fill="#454545" font-size="35" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Questions</tspan></text>
+    <text id="Q:_With_this_application_available_how_would_you_rate_the_probability_of_you_attending_a_winery_or_wine_event." data-name="Q: With this application available, how would you rate the probability of you attending a winery or wine event." transform="translate(543 160)" fill="#454545" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.8"><tspan x="0" y="21">Q: With this application available, how </tspan><tspan x="0" y="50">would you rate the probability of you </tspan><tspan x="0" y="79">attending a winery or wine event.</tspan></text>
+    <text id="Q:_With_this_application_available_how_would_you_rate_the_ease_of_discovering_wine_events" data-name="Q: With this application available, how would you rate the ease of discovering wine events" transform="translate(543 276)" fill="#454545" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.8"><tspan x="0" y="21">Q: With this application available, how </tspan><tspan x="0" y="50">would you rate the ease of discovering wine </tspan><tspan x="0" y="79">events</tspan></text>
+    <text id="Q:_As_you_use_the_application_more_do_you_think_it_will_help_you_gradually_learn_more_about_wine_" data-name="Q: As you use the application more, do you think it will help you gradually learn more about wine ?" transform="translate(543 392)" fill="#454545" font-size="21" font-family="Avenir-Light, Avenir" font-weight="300" opacity="0.8"><tspan x="0" y="21">Q: As you use the application more, do you </tspan><tspan x="0" y="50">think it will help you gradually learn more </tspan><tspan x="0" y="79">about wine ?</tspan></text>
+  </g>
+</svg>

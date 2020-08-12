@@ -1,7 +1,6 @@
 import React from 'react'
 import LaunchIcon from '@material-ui/icons/Launch';
 import GitHubIcon from '@material-ui/icons/GitHub';
-import map from '../../assets/map.svg'
 import '../../styles/work/test-card.css'
 import { Link } from 'react-router-dom';
 
@@ -25,12 +24,12 @@ export default class TestCard extends React.Component {
                         })} */}
                         <p className="project-tag">{this.props.tags[0]}, {this.props.tags[1]}, {this.props.tags[2]} {this.props.tags[3] ? `, ${this.props.tags[3]}` : null}</p>
                     </div>
-                    <p>
+                    {/* <p> */}
                         {this.props.id == 10 
-                        ? <p>Inspired by the team at <a href="https://paravelinc.com/">Paravel</a> I decided to copy their "The Many Faces Of" series and make a fanpage of sorts for my favorite director, Quentin Tarantino</p> 
-                        : <p>{this.props.blurb}</p> 
+                        ? <p className="blurb">Inspired by the team at <a href="https://paravelinc.com/work/tmfo/" id="paravel" target="_blank">Paravel</a> I decided to copy their "The Many Faces Of" series and make a fanpage of sorts for my favorite director, Quentin Tarantino</p> 
+                        : <p className="blurb">{this.props.blurb}</p> 
                         }
-                    </p>
+                    {/* </p> */}
                     <div className="card-content-links">
                     {this.props.github && this.props.live  ? 
                         <>

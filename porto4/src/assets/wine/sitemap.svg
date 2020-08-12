@@ -1,0 +1,714 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6462" height="3765" viewBox="0 0 6462 3765">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="6462" height="3765"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="6462" height="3765" fill="#fff"/>
+    <g id="property" transform="translate(2889 2052)">
+      <g id="Rectangle_2" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <g id="property-2" data-name="property" transform="translate(2887 1946)">
+      <g id="Rectangle_2-2" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <g id="property-3" data-name="property" transform="translate(2887 1840)">
+      <g id="Rectangle_2-3" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(1015 -309)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(1529 384)" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="644" height="188" stroke="none"/>
+        <rect x="0.5" y="0.5" width="643" height="187" fill="none"/>
+      </g>
+      <text id="Wine_App" data-name="Wine App" transform="translate(1670 511)" fill="#333" font-size="80" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Wine App</tspan></text>
+    </g>
+    <g id="Component" transform="translate(241 513)">
+      <g id="Rectangle_2-4" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Discover" transform="translate(290 571)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Discover</tspan></text>
+    <g id="square" transform="translate(1449 558)">
+      <g id="Rectangle_2-5" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Scan" transform="translate(1523 578)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="11.24" y="40">Scan</tspan></text>
+    <g id="square-2" data-name="square" transform="translate(1300 805)">
+      <g id="Rectangle_2-6" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Scan_event_ticket_wine_bottle" data-name="Scan event ticket / wine bottle" transform="translate(1321 821)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="1.362" y="25">Scan event ticket / </tspan><tspan x="42.375" y="59">wine bottle</tspan></text>
+    <g id="square-3" data-name="square" transform="translate(1614 805)">
+      <g id="Rectangle_2-7" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Add_wine_info_manually" data-name="Add wine info manually" transform="translate(1635 818)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="27.55" y="25">Add wine info </tspan><tspan x="56.725" y="59">manually</tspan></text>
+    <g id="square-4" data-name="square" transform="translate(1449 990)">
+      <g id="Rectangle_2-8" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Add_event_winery_wine_to_collection" data-name="Add event/winery/wine to collection" transform="translate(1470 1001)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0.237" y="25">Add event/winery/</tspan><tspan x="6.688" y="59">wine to collection</tspan></text>
+    <path id="Path_2" data-name="Path 2" d="M1676.524,535.04V464.894H1839.5V383" transform="translate(-263 272)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_3" data-name="Path 3" d="M1850.829,383v82.328h169.337V535.04" transform="translate(-274.329 272)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_4" data-name="Path 4" d="M2008.837,630v53.933H1851.544V718" transform="translate(-263 272)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_5" data-name="Path 5" d="M1676.524,630v37.1H1827.83V718" transform="translate(-263 272)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_6" data-name="Path 6" d="M2036,173.5H934.873v89.281" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_10" data-name="Path 10" d="M1839.5,231v81.87h304.044V367.5" transform="translate(-555 190.5)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="square-5" data-name="square" transform="translate(2912 558)">
+      <g id="Rectangle_2-9" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Map" transform="translate(2986 578)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="12.78" y="40">Map</tspan></text>
+    <g id="square-6" data-name="square" transform="translate(2752 939)">
+      <g id="Rectangle_2-10" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <g id="square-7" data-name="square" transform="translate(2168 942)">
+      <g id="Rectangle_2-11" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <g id="square-8" data-name="square" transform="translate(2460 939)">
+      <g id="Rectangle_2-12" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="User" transform="translate(2189 972)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="80.575" y="25">User</tspan></text>
+    <text id="Nodes" transform="translate(2482 972)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="68.987" y="25">Nodes</tspan></text>
+    <text id="Boundary" transform="translate(2775 972)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="52.3" y="25">Boundary</tspan></text>
+    <g id="square-9" data-name="square" transform="translate(2752 729)">
+      <g id="Rectangle_2-13" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Map_of_Hudson_Valley" data-name="Map of Hudson Valley" transform="translate(2773 745)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="18.738" y="25">Map of Hudson </tspan><tspan x="73.625" y="59">Valley</tspan></text>
+    <g id="square-10" data-name="square" transform="translate(3072 729)">
+      <g id="Rectangle_2-14" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="List_of_wineries" data-name="List of wineries" transform="translate(3093 757)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="21.787" y="25">List of wineries</tspan></text>
+    <path id="Path_11" data-name="Path 11" d="M2036,173.5H3576.941V311.482" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_12" data-name="Path 12" d="M3594.5,407v47.661H3436.219v27.776" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_13" data-name="Path 13" d="M3594.5,454.924h134.45v25.82" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="square-11" data-name="square" transform="translate(2168 1214)">
+      <g id="Rectangle_2-15" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="x_y_coordinates" data-name="x,y coordinates" transform="translate(2189 1249)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="20.337" y="25">x,y coordinates</tspan></text>
+    <g id="square-12" data-name="square" transform="translate(2168 1078)">
+      <g id="Rectangle_2-16" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Icon" transform="translate(2189 1108)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="82.625" y="25">Icon</tspan></text>
+    <g id="square-13" data-name="square" transform="translate(2461 1214)">
+      <g id="Rectangle_2-17" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="name_of_winery" data-name="name of winery" transform="translate(2482 1244)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="19.662" y="25">name of winery</tspan></text>
+    <g id="square-14" data-name="square" transform="translate(2461 1078)">
+      <g id="Rectangle_2-18" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Distance_from_user" data-name="Distance from user" transform="translate(2481 1092)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="27.537" y="25">Distance from </tspan><tspan x="82.425" y="59">user</tspan></text>
+    <g id="Component-2" data-name="Component" transform="translate(2798 1146)">
+      <g id="Ellipse_1" data-name="Ellipse 1" fill="#1221d9" stroke="#fff" stroke-width="3" stroke-dasharray="5">
+        <circle cx="83.5" cy="83.5" r="83.5" stroke="none"/>
+        <circle cx="83.5" cy="83.5" r="82" fill="none"/>
+      </g>
+    </g>
+    <text id="Pan_drag" data-name="Pan/drag" transform="translate(2775 1211)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="52.1" y="25">Pan/drag</tspan></text>
+    <path id="Path_14" data-name="Path 14" d="M3434.5,788V906.979" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_15" data-name="Path 15" d="M3377.682,927l-113.4-141.693" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="square-15" data-name="square" transform="translate(3059 936)">
+      <g id="Rectangle_2-19" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <g id="square-16" data-name="square" transform="translate(3351 936)">
+      <g id="Rectangle_2-20" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Name" transform="translate(3080 966)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="72.463" y="25">Name</tspan></text>
+    <text id="Distance" transform="translate(3373 969)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="57.65" y="25">Distance</tspan></text>
+    <g id="square-17" data-name="square" transform="translate(3059 1078)">
+      <g id="Rectangle_2-21" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="name_of_winery-2" data-name="name of winery" transform="translate(3080 1108)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="19.662" y="25">name of winery</tspan></text>
+    <g id="square-18" data-name="square" transform="translate(3352 1078)">
+      <g id="Rectangle_2-22" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Distance_from_user-2" data-name="Distance from user" transform="translate(3372 1092)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="27.537" y="25">Distance from </tspan><tspan x="82.425" y="59">user</tspan></text>
+    <path id="Path_16" data-name="Path 16" d="M3434.5,578v47.281H2847.266v66.063" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_17" data-name="Path 17" d="M3113.922,623.094v71.258" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_18" data-name="Path 18" d="M3415.43,623.094v67.1" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_19" data-name="Path 19" d="M3754.5,578V688.781" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_20" data-name="Path 20" d="M3754.5,646.57h270.43v39.7" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_21" data-name="Path 21" d="M2847.266,791v36.461" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_22" data-name="Path 22" d="M2847.266,927v40.113" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_23" data-name="Path 23" d="M3131.5,788v39.8" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_24" data-name="Path 24" d="M3140.883,927v36.617" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_25" data-name="Path 25" d="M3741.5,785v43.629" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_26" data-name="Path 26" d="M4029.141,785v45.383" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="square-19" data-name="square" transform="translate(2864 1613)">
+      <g id="Rectangle_2-23" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Details_about_winery" data-name="Details about winery" transform="translate(2883 1630)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="31.025" y="25">Details about </tspan><tspan x="69.237" y="59">winery</tspan></text>
+    <g id="Component-3" data-name="Component" transform="translate(2887 1734)">
+      <g id="Rectangle_2-24" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="name-2" data-name="name" transform="translate(2883 1754)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="75.462" y="25">name</tspan></text>
+    <text id="address" transform="translate(2885 1860)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="62.288" y="25">address</tspan></text>
+    <text id="Hours" transform="translate(2883 1966)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="72.688" y="25">Hours</tspan></text>
+    <text id="directions" transform="translate(2887 2072)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="50.938" y="25">directions</tspan></text>
+    <g id="property-4" data-name="property" transform="translate(2760 2182)">
+      <g id="Rectangle_2-25" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="upcoming_events" data-name="upcoming events" transform="translate(2770 2187)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="38.725" y="25">upcoming </tspan><tspan x="57.725" y="59">events</tspan></text>
+    <g id="property-5" data-name="property" transform="translate(3061 2182)">
+      <g id="Rectangle_2-26" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="Badges_at_this_winery" data-name="Badges at this winery" transform="translate(3072 2188)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="14.675" y="25">Badges at this </tspan><tspan x="57.737" y="59">winery</tspan></text>
+    <g id="property-6" data-name="property" transform="translate(2514 2308)">
+      <g id="Rectangle_2-27" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="name_of_event" data-name="name of event" transform="translate(2524 2329)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="13.7" y="25">name of event</tspan></text>
+    <g id="property-7" data-name="property" transform="translate(2760 2309)">
+      <g id="Rectangle_2-28" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="date_of_event" data-name="date of event" transform="translate(2770 2329)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="19.037" y="25">date of event</tspan></text>
+    <g id="property-8" data-name="property" transform="translate(3061 2308)">
+      <g id="Rectangle_2-29" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="list_of_badges_at_this_winery" data-name="list of badges at this winery" transform="translate(3067 2317)" fill="#333" font-size="22" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="18.744" y="22">list of badges at </tspan><tspan x="45.441" y="52">this winery</tspan></text>
+    <g id="square-20" data-name="square" transform="translate(2611 2493)">
+      <g id="Rectangle_2-30" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="page_of_event" data-name="page of event" transform="translate(2644 2524)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="16.025" y="25">page of event</tspan></text>
+    <g id="square-21" data-name="square" transform="translate(3055 2506)">
+      <g id="Rectangle_2-31" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Page_showing_badge" data-name="Page showing badge" transform="translate(3071 2522)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="35.038" y="25">Page showing </tspan><tspan x="77.65" y="59">badge</tspan></text>
+    <g id="property-9" data-name="property" transform="translate(2634 2620)">
+      <g id="Rectangle_2-32" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="name-3" data-name="name" transform="translate(2644 2642)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="63.962" y="25">name</tspan></text>
+    <g id="property-10" data-name="property" transform="translate(2635 2738)">
+      <g id="Rectangle_2-33" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="date" transform="translate(2644 2760)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="69.3" y="25">date</tspan></text>
+    <g id="property-11" data-name="property" transform="translate(2635 2856)">
+      <g id="Rectangle_2-34" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="description" transform="translate(2644 2878)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="31.575" y="25">description</tspan></text>
+    <g id="square-22" data-name="square" transform="translate(2732 3259)">
+      <g id="Rectangle_2-35" data-name="Rectangle 2" fill="#137406" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Buy_ticket_through_eventbrite" data-name="Buy ticket through eventbrite" transform="translate(2741 3275)" fill="#fff" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="13.825" y="25">Buy ticket through </tspan><tspan x="59.938" y="59">eventbrite</tspan></text>
+    <g id="property-12" data-name="property" transform="translate(3078 2632)">
+      <g id="Rectangle_2-36" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="name-4" data-name="name" transform="translate(3088 2654)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="63.962" y="25">name</tspan></text>
+    <g id="property-13" data-name="property" transform="translate(3078 2749)">
+      <g id="Rectangle_2-37" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="percent_completed" data-name="percent completed" transform="translate(3088 2754)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="51.463" y="25">percent </tspan><tspan x="34.1" y="59">completed</tspan></text>
+    <text id="Click" transform="translate(2892 1450)" fill="#fff" font-size="30" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="47.355" y="30">Click</tspan></text>
+    <path id="Path_27" data-name="Path 27" d="M3140.883,1063v163.714h304.711" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_28" data-name="Path 28" d="M3743.775,927v302.343L3605.4,1236" transform="translate(-555.396 248)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_29" data-name="Path 29" d="M3527.5,1295.182v61" transform="translate(-555 256.818)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="property-14" data-name="property" transform="translate(2635 2968)">
+      <g id="Rectangle_2-38" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="button_to_add_to_calendar" data-name="button to add to calendar" transform="translate(2644 2974)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0.5" y="25">button to add to </tspan><tspan x="46.838" y="59">calendar</tspan></text>
+    <g id="Component_1" data-name="Component 1" transform="translate(2256 2392)">
+      <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-2" data-name="Click" transform="translate(2259 2457)" fill="#fff" font-size="30" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="47.355" y="30">Click</tspan></text>
+    <path id="Path_30" data-name="Path 30" d="M3069,2103.5l-104.323,78.115" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_31" data-name="Path 31" d="M2976,2247l187.568,41.177" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="click_event" data-name="click event" transform="translate(3441 2369)">
+      <circle id="Ellipse_1-3" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-3" data-name="Click" transform="translate(3444 2434)" fill="#fff" font-size="30" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="47.355" y="30">Click</tspan></text>
+    <path id="Path_32" data-name="Path 32" d="M3825,2103.5l176.422,69.833" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_33" data-name="Path 33" d="M4007.932,2245l-147.682,50.464" transform="translate(-550 261)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="click_event-2" data-name="click event" transform="translate(2311 2942)">
+      <circle id="Ellipse_1-4" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-4" data-name="Click" transform="translate(2315 3007)" fill="#fff" font-size="30" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="47.355" y="30">Click</tspan></text>
+    <path id="Path_34" data-name="Path 34" d="M3189,2760l-138.75,82.734" transform="translate(1252.634 -969.5) rotate(30)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_36" data-name="Path 36" d="M3544.5,1462v24.172" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_37" data-name="Path 37" d="M3546.5,1566v27.172" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_38" data-name="Path 38" d="M3546.5,1672v26.266" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_39" data-name="Path 39" d="M3546.5,1778v26.479" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_40" data-name="Path 40" d="M3548.5,1884v22.661H3418.031v26.516" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_41" data-name="Path 41" d="M3548.5,1908.589h185v36.588" transform="translate(-556 236)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_42" data-name="Path 42" d="M3410.371,2014v18.113H3171.41v28.051" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_43" data-name="Path 43" d="M3410.371,2031.039v28.672" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_44" data-name="Path 44" d="M3721,2014v47" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_45" data-name="Path 45" d="M3735,2342v30.725" transform="translate(-550 261)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_46" data-name="Path 46" d="M3735,2451v39.6" transform="translate(-550 259.605)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_47" data-name="Path 47" d="M3294,2342v29.617" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_48" data-name="Path 48" d="M3294,2452v38.064" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_49" data-name="Path 49" d="M3293.5,2570v38.018" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_50" data-name="Path 50" d="M3294,2688v32.186" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="square-23" data-name="square" transform="translate(4493 559)">
+      <g id="Rectangle_2-39" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Passport" transform="translate(4539 581)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="2.6" y="40">Passport</tspan></text>
+    <g id="square-24" data-name="square" transform="translate(4123 732)">
+      <g id="Rectangle_2-40" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="badges" transform="translate(4144 762)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="64.6" y="25">badges</tspan></text>
+    <g id="property-15" data-name="property" transform="translate(4148 880)">
+      <g id="Rectangle_2-41" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="111" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="110" fill="none"/>
+      </g>
+    </g>
+    <text id="List_of_badges" data-name="List of badges" transform="translate(4160 921)" fill="#333" font-size="22" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="22.012" y="22">List of badges</tspan></text>
+    <g id="click_event-3" data-name="click event" transform="translate(4167 1077)">
+      <circle id="Ellipse_1-5" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="click_" data-name="click
+" transform="translate(4202 1142)" fill="#fff" font-size="30" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="15.9" y="30">click</tspan></text>
+    <g id="Component-4" data-name="Component" transform="translate(4045 1307)">
+      <g id="Group_4" data-name="Group 4" transform="translate(34)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="344" height="69" fill="#ffe627"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(0 117)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" width="157" height="69" fill="#27ff69"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(255 117)">
+        <rect id="Rectangle_3-3" data-name="Rectangle 3" width="157" height="69" fill="#ff2727"/>
+      </g>
+    </g>
+    <g id="square-25" data-name="square" transform="translate(3953 1579)">
+      <g id="Rectangle_2-42" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="180" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="179" fill="none"/>
+      </g>
+    </g>
+    <g id="square-26" data-name="square" transform="translate(4307 1580)">
+      <g id="Rectangle_2-43" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="180" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="179" fill="none"/>
+      </g>
+    </g>
+    <text id="page_showing_details_about_the_badge" data-name="page showing details about the badge" transform="translate(3988 1618)" fill="#333" font-size="22" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="22.815" y="22">page showing </tspan><tspan x="8.152" y="52">details about the </tspan><tspan x="60.512" y="82">badge</tspan></text>
+    <text id="Page_showing_what_you_need_to_do_to_obtain_the_badge" data-name="Page showing what you need to do to obtain the badge" transform="translate(4342 1610)" fill="#333" font-size="22" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="23.013" y="22">Page showing </tspan><tspan x="5.259" y="52">what you need to </tspan><tspan x="11.375" y="82">do to obtain the </tspan><tspan x="60.512" y="112">badge</tspan></text>
+    <text id="Do_you_have_this_badge_" data-name="Do you have this badge?" transform="translate(4079 1323)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="29.925" y="25">Do you have this badge?</tspan></text>
+    <text id="yes" transform="translate(4077 1440)" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="24.087" y="25">yes</tspan></text>
+    <text id="no" transform="translate(4332 1440)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="29.2" y="25">no</tspan></text>
+    <path id="Path_51" data-name="Path 51" d="M5187.914,408v33.391H4804.75v43.344" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_53" data-name="Path 53" d="M4803.5,581v50.395" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_54" data-name="Path 54" d="M4804.5,743v84.82" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_55" data-name="Path 55" d="M4803.5,996v63.832" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_56" data-name="Path 56" d="M4803.5,1127.289v22.621h103.668v27.02" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_57" data-name="Path 57" d="M4803.5,1147.871H4678.586v27.316" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_58" data-name="Path 58" d="M4676,1245v85.031" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_59" data-name="Path 59" d="M4931,1245v88.121" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_67" data-name="Path 67" d="M3576.941,173.5H5175.5V312.539" transform="translate(-555 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="square-27" data-name="square" transform="translate(5591 575)">
+      <g id="Rectangle_2-44" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Profile" transform="translate(5637 598)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="23.34" y="40">Profile</tspan></text>
+    <g id="square-28" data-name="square" transform="translate(4875 745)">
+      <g id="Rectangle_2-45" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="wines_" data-name="wines
+" transform="translate(4921 768)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="30.4" y="40">wines</tspan></text>
+    <g id="square-29" data-name="square" transform="translate(4875 926)">
+      <g id="Rectangle_2-46" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="List_of_wines" data-name="List of wines" transform="translate(4896 954)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="36.362" y="25">List of wines</tspan></text>
+    <g id="property-16" data-name="property" transform="translate(4769 1088)">
+      <g id="Rectangle_2-47" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="name-5" data-name="name" transform="translate(4765 1109)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="75.462" y="25">name</tspan></text>
+    <g id="property-17" data-name="property" transform="translate(5032 1088)">
+      <g id="Rectangle_2-48" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="Starred_Y_N" data-name="Starred, Y/N" transform="translate(5028 1109)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="35.412" y="25">Starred, Y/N</tspan></text>
+    <g id="click_event-4" data-name="click event" transform="translate(4787 1282)">
+      <circle id="Ellipse_1-6" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <g id="square-30" data-name="square" transform="translate(4748 1570)">
+      <g id="Rectangle_2-49" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="page_showing_details_about_wine" data-name="page showing details about wine" transform="translate(4769 1585)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="27.313" y="25">page showing </tspan><tspan x="2.788" y="59">details about wine</tspan></text>
+    <g id="property-18" data-name="property" transform="translate(4769 1693)">
+      <g id="Rectangle_2-50" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="name-6" data-name="name" transform="translate(4767 1714)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="75.462" y="25">name</tspan></text>
+    <g id="property-19" data-name="property" transform="translate(4773 1792)">
+      <g id="Rectangle_2-51" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="location_place_of_origin" data-name="location/place of origin" transform="translate(4766 1805)" fill="#333" font-size="22" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="22.933" y="22">location/place of </tspan><tspan x="77.779" y="52">origin</tspan></text>
+    <g id="property-20" data-name="property" transform="translate(4769 1894)">
+      <g id="Rectangle_2-52" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="Type" transform="translate(4764 1918)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="79.875" y="25">Type</tspan></text>
+    <g id="property-21" data-name="property" transform="translate(4769 1996)">
+      <g id="Rectangle_2-53" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="year" transform="translate(4764 2017)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="82.188" y="25">year</tspan></text>
+    <g id="property-22" data-name="property" transform="translate(4769 2101)">
+      <g id="Rectangle_2-54" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="tags" transform="translate(4764 2123)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="82.2" y="25">tags</tspan></text>
+    <g id="property-23" data-name="property" transform="translate(4769 2207)">
+      <g id="Rectangle_2-55" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="date-2" data-name="date" transform="translate(4764 2229)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="80.8" y="25">date</tspan></text>
+    <path id="Path_69" data-name="Path 69" d="M6534.5,400v85.211" transform="translate(-1532 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_70" data-name="Path 70" d="M6534.5,582v42.184H6401.508V646" transform="translate(-1532 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_71" data-name="Path 71" d="M6534.5,623.465h141.559v21.727" transform="translate(-1532 434)" fill="none" stroke="#707070" stroke-width="2"/>
+    <text id="Click-5" data-name="Click" transform="translate(4763 1347)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="78.462" y="25">Click</tspan></text>
+    <path id="Path_72" data-name="Path 72" d="M6401.5,726V840.48" transform="translate(-1532 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_73" data-name="Path 73" d="M6401.5,1007v120.8" transform="translate(-1532 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_74" data-name="Path 74" d="M6401.5,1225v24.551" transform="translate(-1533 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_75" data-name="Path 75" d="M6401.5,1331v18.613" transform="translate(-1533 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_76" data-name="Path 76" d="M6402.5,1430v21.523" transform="translate(-1533 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_77" data-name="Path 77" d="M6401.5,1532v20.828" transform="translate(-1533 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_78" data-name="Path 78" d="M6401.5,1634v24.793" transform="translate(-1533 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_79" data-name="Path 79" d="M6401.5,1739v26.395" transform="translate(-1533 442)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="property-24" data-name="property" transform="translate(5614 715)">
+      <g id="Rectangle_2-56" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="name-7" data-name="name" transform="translate(5612 736)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="75.462" y="25">name</tspan></text>
+    <g id="property-25" data-name="property" transform="translate(5612 1172)">
+      <g id="Rectangle_2-57" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="tags-2" data-name="tags" transform="translate(5611 1193)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="82.2" y="25">tags</tspan></text>
+    <path id="Path_80" data-name="Path 80" d="M7404.5,410v42.543" transform="translate(-1686 262)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_81" data-name="Path 81" d="M7404.5,533v30.7" transform="translate(-1686 262)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_82" data-name="Path 82" d="M7404.5,643v29.93" transform="translate(-1686 262)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_83" data-name="Path 83" d="M7405.5,753v51.145" transform="translate(-1688 368)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_84" data-name="Path 84" d="M6535,173.5H7635V308.781" transform="translate(-1914.5 248)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_85" data-name="Path 85" d="M3897,336V494.5" transform="translate(-1031 -73)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="Component-5" data-name="Component" transform="translate(2889 1385)">
+      <circle id="Ellipse_1-7" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="click-6" data-name="click" transform="translate(2864 1450)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="81" y="25">click</tspan></text>
+    <g id="click_event-5" data-name="click event" transform="translate(2515 1997)">
+      <circle id="Ellipse_1-8" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-7" data-name="Click" transform="translate(2518 2063)" fill="#fff" font-size="30" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="47.355" y="30">Click</tspan></text>
+    <g id="square-31" data-name="square" transform="translate(2282 3199)">
+      <g id="Rectangle_2-58" data-name="Rectangle 2" fill="#137406" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Added_to_google_calendars" data-name="Added to google calendars" transform="translate(2291 3215)" fill="#fff" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="20.763" y="25">Added to google </tspan><tspan x="64.788" y="59">calendars</tspan></text>
+    <path id="Path_92" data-name="Path 92" d="M3059,2903l59.091,70.062" transform="matrix(0.809, 0.588, -0.588, 0.809, 1621.24, -1038.944)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="square-32" data-name="square" transform="translate(2030 2041)">
+      <g id="Rectangle_2-59" data-name="Rectangle 2" fill="#137406" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Directions_open_in_google_maps" data-name="Directions open in google maps" transform="translate(2039 2057)" fill="#fff" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="15.45" y="25">Directions open in </tspan><tspan x="44.625" y="59">google maps</tspan></text>
+    <path id="Path_94" data-name="Path 94" d="M3477,2140l-204.885-12.266" transform="translate(-590 -48)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_95" data-name="Path 95" d="M3503.115,2130.5l-231-2.766" transform="translate(-987.115 -50)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="click_event-6" data-name="click event" transform="translate(1495 1176)">
+      <circle id="Ellipse_1-9" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <g id="square-33" data-name="square" transform="translate(1403 1392)">
+      <g id="Rectangle_2-60" data-name="Rectangle 2" fill="#137406" stroke="#333" stroke-width="1">
+        <rect width="377" height="152" stroke="none"/>
+        <rect x="0.5" y="0.5" width="376" height="151" fill="none"/>
+      </g>
+    </g>
+    <text id="This_wine_has_been_added_to_your_collection" data-name="This wine has been added to your collection" transform="translate(1425 1404)" fill="#fff" font-size="32" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="29.588" y="32">This wine has been </tspan><tspan x="63.332" y="76">added to your </tspan><tspan x="96.836" y="120">collection</tspan></text>
+    <text id="Click-8" data-name="Click" transform="translate(1470 1244)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="78.462" y="25">Click</tspan></text>
+    <path id="Path_96" data-name="Path 96" d="M2168.5,1135v90.687" transform="translate(-590 -48)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_97" data-name="Path 97" d="M2162.5,1391v50.939" transform="translate(-590 -48)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="property-26" data-name="property" transform="translate(5611 1292)">
+      <g id="Rectangle_2-61" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="Settings" transform="translate(5610 1313)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="60.213" y="25">Settings</tspan></text>
+    <g id="click_event-7" data-name="click event" transform="translate(5635 1447)">
+      <circle id="Ellipse_1-10" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-9" data-name="Click" transform="translate(5612 1517)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="78.462" y="25">Click</tspan></text>
+    <g id="square-34" data-name="square" transform="translate(5591 1672)">
+      <g id="Rectangle_2-62" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="255" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="254" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="settings_page" data-name="settings page" transform="translate(5612 1699)" fill="#333" font-size="30" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="14.01" y="30">settings page</tspan></text>
+    <path id="Path_102" data-name="Path 102" d="M5338,655.5h249.393V796.567" transform="translate(-590 -48)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_103" data-name="Path 103" d="M6309.5,1173v38.032" transform="translate(-592 79)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_104" data-name="Path 104" d="M6310.5,1293v76.271" transform="translate(-592 79)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_105" data-name="Path 105" d="M6310.5,1535v60.36" transform="translate(-592 79)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="property-27" data-name="property" transform="translate(2635 3064)">
+      <g id="Rectangle_2-63" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="80" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="79" fill="none"/>
+      </g>
+    </g>
+    <text id="Buy_ticket" data-name="Buy ticket" transform="translate(2644 3087)" fill="#333" font-size="25" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="38.737" y="25">Buy ticket</tspan></text>
+    <g id="click_event-8" data-name="click event" transform="translate(2959 3000)">
+      <circle id="Ellipse_1-11" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <path id="Path_107" data-name="Path 107" d="M3153.782,2760l-103.532,62.666" transform="translate(1613.6 -863.121) rotate(30)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_108" data-name="Path 108" d="M3059,2903l59.242,95.842" transform="matrix(0.454, 0.891, -0.891, 0.454, 4240.335, -876.523)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <text id="Click-10" data-name="Click" transform="translate(2964 3064)" fill="#fff" font-size="30" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="47.355" y="30">Click</tspan></text>
+    <g id="square-35" data-name="square" transform="translate(5614 826)">
+      <g id="Rectangle_2-64" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Number_of_Badges_Collected" data-name="Number of Badges Collected" fill="#333" stroke="rgba(0,0,0,0)" transform="translate(5625 845)" stroke-width="1" stroke-dasharray="5" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="8.05" y="20">Number of Badges </tspan><tspan x="50.47" y="47">Collected</tspan></text>
+    <g id="square-36" data-name="square" transform="translate(5613 944)">
+      <g id="Rectangle_2-65" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Number_of_Wines_Collected" data-name="Number of Wines Collected" fill="#333" stroke="rgba(0,0,0,0)" transform="translate(5624 963)" stroke-width="1" stroke-dasharray="5" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="14.18" y="20">Number of Wines </tspan><tspan x="50.47" y="47">Collected</tspan></text>
+    <g id="square-37" data-name="square" transform="translate(5612 1060)">
+      <g id="Rectangle_2-66" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="209" height="61" stroke="none"/>
+        <rect x="0.5" y="0.5" width="208" height="60" fill="none"/>
+      </g>
+    </g>
+    <text id="Saved_events" data-name="Saved events" fill="#333" stroke="rgba(0,0,0,0)" transform="translate(5623 1079)" stroke-width="1" stroke-dasharray="5" font-size="20" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="33.98" y="20">Saved events</tspan></text>
+    <g id="click_event-9" data-name="click event" transform="translate(5362 945)">
+      <circle id="Ellipse_1-12" data-name="Ellipse 1" cx="67" cy="67" r="67" fill="#de4242"/>
+    </g>
+    <text id="Click-11" data-name="Click" transform="translate(5344 1001)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="57.462" y="25">Click</tspan></text>
+    <path id="Path_109" data-name="Path 109" d="M6189,1142l-118.113,15.143" transform="translate(-575 -141)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_110" data-name="Path 110" d="M5937,1157.143,5701,973.38" transform="translate(-575 -141)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="click_event-10" data-name="click event" transform="translate(5389 786)">
+      <circle id="Ellipse_1-13" data-name="Ellipse 1" cx="67" cy="67" r="67" fill="#de4242"/>
+    </g>
+    <text id="Click-12" data-name="Click" transform="translate(5371 842)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="57.462" y="25">Click</tspan></text>
+    <path id="Path_111" data-name="Path 111" d="M6189,1013l-92.607-10.8" transform="translate(-575 -141)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Path_112" data-name="Path 112" d="M5964,994H5829.405l-23.3-149.835H5345.619L5323.56,916.7H4950.694" transform="translate(-575 -141)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="square-38" data-name="square" transform="translate(44 699)">
+      <g id="Rectangle_2-67" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="395" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="394" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Upcoming_Events-2" data-name="Upcoming Events" transform="translate(84 760)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Upcoming Events</tspan></text>
+    <g id="square-39" data-name="square" transform="translate(496 699)">
+      <g id="Rectangle_2-68" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="395" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="394" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Find_Wine_Events" data-name="Find Wine Events" transform="translate(536 760)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Find Wine Events</tspan></text>
+    <path id="Path_113" data-name="Path 113" d="M943.5,751v51.844H810.863v37.035" transform="translate(-575 -141)" fill="none" stroke="#707070" stroke-width="3"/>
+    <path id="Path_114" data-name="Path 114" d="M943.5,796h333.686v35.7" transform="translate(-575 -133.931)" fill="none" stroke="#707070" stroke-width="3"/>
+    <g id="square-40" data-name="square" transform="translate(74 826)">
+      <g id="Rectangle_2-69" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="308" height="90" stroke="none"/>
+        <rect x="0.5" y="0.5" width="307" height="89" fill="none"/>
+      </g>
+    </g>
+    <text id="Price" transform="translate(90 854)" fill="#333" stroke="rgba(0,0,0,0)" stroke-width="1" stroke-dasharray="5" font-size="24" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="111.608" y="24">Price</tspan></text>
+    <g id="square-41" data-name="square" transform="translate(74 938)">
+      <g id="Rectangle_2-70" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="308" height="90" stroke="none"/>
+        <rect x="0.5" y="0.5" width="307" height="89" fill="none"/>
+      </g>
+    </g>
+    <text id="Date-3" data-name="Date" fill="#333" stroke="rgba(0,0,0,0)" transform="translate(90 966)" stroke-width="1" stroke-dasharray="5" font-size="24" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="112.268" y="24">Date</tspan></text>
+    <g id="square-42" data-name="square" transform="translate(74 1050)">
+      <g id="Rectangle_2-71" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="308" height="90" stroke="none"/>
+        <rect x="0.5" y="0.5" width="307" height="89" fill="none"/>
+      </g>
+    </g>
+    <text id="Winery" transform="translate(90 1078)" fill="#333" stroke="rgba(0,0,0,0)" stroke-width="1" stroke-dasharray="5" font-size="24" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="100.292" y="24">Winery</tspan></text>
+    <g id="square-43" data-name="square" transform="translate(74 1162)">
+      <g id="Rectangle_2-72" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1" stroke-dasharray="5">
+        <rect width="308" height="90" stroke="none"/>
+        <rect x="0.5" y="0.5" width="307" height="89" fill="none"/>
+      </g>
+    </g>
+    <text id="Type_of_Event" data-name="Type of Event" fill="#333" stroke="rgba(0,0,0,0)" transform="translate(90 1190)" stroke-width="1" stroke-dasharray="5" font-size="24" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="64.028" y="24">Type of Event</tspan></text>
+    <g id="click_event-11" data-name="click event" transform="translate(612 885)">
+      <circle id="Ellipse_1-14" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-13" data-name="Click" transform="translate(587 953)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="78.462" y="25">Click</tspan></text>
+    <path id="Path_115" data-name="Path 115" d="M2168.5,1135v90.687" transform="translate(-1473 -339)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_116" data-name="Path 116" d="M2162.5,1391v50.939" transform="translate(-1473 -339)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="square-44" data-name="square" transform="translate(531 1098)">
+      <g id="Rectangle_2-73" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="342" height="97" stroke="none"/>
+        <rect x="0.5" y="0.5" width="341" height="96" fill="none"/>
+      </g>
+    </g>
+    <text id="Input_interests_" data-name="Input interests " transform="translate(578 1164)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Input interests </tspan></text>
+    <g id="click_event-12" data-name="click event" transform="translate(608 1289)">
+      <circle id="Ellipse_1-15" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-14" data-name="Click" transform="translate(583 1357)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="78.462" y="25">Click</tspan></text>
+    <path id="Path_117" data-name="Path 117" d="M2168.5,1135v90.687" transform="translate(-1477 65)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_118" data-name="Path 118" d="M2162.5,1391v50.939" transform="translate(-1477 65)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <g id="square-45" data-name="square" transform="translate(509 1508)">
+      <g id="Rectangle_2-74" data-name="Rectangle 2" fill="#fff" stroke="#333" stroke-width="1">
+        <rect width="364" height="173" stroke="none"/>
+        <rect x="0.5" y="0.5" width="363" height="172" fill="none"/>
+      </g>
+    </g>
+    <text id="List_of_selected_interests" data-name="List of selected
+ interests" transform="translate(556 1574)" fill="#333" font-size="40" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">List of selected</tspan><tspan x="0" y="55" xml:space="preserve"> interests</tspan></text>
+    <g id="click_event-13" data-name="click event" transform="translate(147 1352)">
+      <circle id="Ellipse_1-16" data-name="Ellipse 1" cx="83.5" cy="83.5" r="83.5" fill="#de4242"/>
+    </g>
+    <text id="Click-15" data-name="Click" transform="translate(122 1420)" fill="#fff" font-size="25" font-family="Avenir-Black, Avenir" font-weight="800"><tspan x="78.462" y="25">Click</tspan></text>
+    <path id="Path_119" data-name="Path 119" d="M2168.5,1135v90.687" transform="translate(-1938 128)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+    <path id="Path_120" data-name="Path 120" d="M851,1721,829.772,3013.464H3025l204.144-218.292" transform="translate(-623 -202)" fill="none" stroke="#707070" stroke-width="3" stroke-dasharray="5"/>
+  </g>
+</svg>
