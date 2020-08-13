@@ -5,9 +5,10 @@ import '../../styles/work/test-card.css'
 import { Link } from 'react-router-dom';
 
 export default class TestCard extends React.Component {
+
     render() {
         return (
-            <div className="card-wrapper">
+            <div className="card-wrapper" id={this.props.position}>
                 <div className="card-content">
                     <h1>{this.props.name}</h1>
                     <div className="tags-wrapper">

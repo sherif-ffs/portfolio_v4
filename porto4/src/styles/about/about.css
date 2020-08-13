@@ -35,7 +35,8 @@
     /* opacity: .7; */
 }
 .about-wrapper p span {
-    font-weight: 600;
+    font-weight: 500;
+    color: #d94458!important;
 }
 #second-about {
     margin-top: 2vh;

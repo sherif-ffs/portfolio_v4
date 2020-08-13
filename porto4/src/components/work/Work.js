@@ -72,6 +72,7 @@ export default class Work extends React.Component {
         })
         window.scrollBy(0, 700);
     }
+
     render() {
         this.wrapper = React.createRef();
         let projects
@@ -153,6 +154,7 @@ export default class Work extends React.Component {
                             thumbnail={project.thumbnail}
                             tags={project.tags}
                             project={project.project}
+                            position={project.position}
                         >
                         </TestCard>
                     )
