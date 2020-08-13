@@ -42,6 +42,7 @@ export default class Resume extends React.Component {
                     <h1>Education</h1>
                     <div className="company">
                         <h3 className="company-title">B.S. in Human-Computer Interaction</h3>
+                        <h5 className="company-subtitles">Focus in Web & Mobile Development</h5>
                         <a href="https://www.njit.edu/academics/major/human-computer-interaction" target="_blank">New Jersey Institute of Technology</a>
                         <h3 className="timeline">2017 - 2020</h3>
                     </div>

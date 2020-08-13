@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import '../styles/pageTabs.css'
-
+import young from '../assets/baby.png'
 export default class PageTabs extends React.Component {
   state = { 
     currentPage: '/',
@@ -27,6 +27,7 @@ export default class PageTabs extends React.Component {
             >
               S
           </Link>    
+          {/* <img src={young}></img> */}
           </h1>
           <div className="nav-item-wrapper">
               <li className='nav-item'>

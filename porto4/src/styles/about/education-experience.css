@@ -25,6 +25,16 @@
     margin-bottom: 1.5vh;
     font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
 }
+.company-subtitles {
+    font-size: 1.1rem;
+    margin-top: .5vh;
+    color: #323748;
+    opacity: .8;
+    font-weight: 100;
+    margin-bottom: 1.5vh;
+    margin-top: -1vh!important;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}
 .company a {
     font-size: 1.1rem;
     margin-bottom: 1.5vh;

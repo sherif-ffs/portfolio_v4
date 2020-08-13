@@ -6,7 +6,7 @@ import TestCard from './TestCard.js'
 import FilterTabs from './FilterTabs'
 import Anime from "@mollycule/react-anime";
 import animejs, { AnimeInstance } from "animejs";
-
+import Footer from '../Footer'
 import '../../styles/work/work.css'
 
 export default class Work extends React.Component {
@@ -158,6 +158,7 @@ export default class Work extends React.Component {
                     )
                     })}
                 </div>
+                <Footer></Footer>
             </>
         )
     }

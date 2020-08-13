@@ -1,11 +1,9 @@
 import React from 'react'
 
 import '../../styles/about/about.css'
-import me from '../../assets/me.png'
 import EducationExperience from './EducationExperience'
 import sherif from '../../assets/sherif.png'
-import young from '../../assets/baby.png'
-
+import Footer from '../Footer'
 export default class About extends React.Component {
     render() {
         return (
@@ -24,6 +22,7 @@ export default class About extends React.Component {
                 </div>
             </div>
             <EducationExperience></EducationExperience>
+            <Footer></Footer>
             </>
         )
     }
