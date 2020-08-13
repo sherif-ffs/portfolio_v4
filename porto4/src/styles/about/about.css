@@ -29,10 +29,13 @@
     font-size: 1.2rem;
     font-weight: 400;
     width: 85%;
-    line-height: 4vh;
-    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    line-height: 4.5vh;
+    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
     color: #323748;
-    opacity: .7;
+    /* opacity: .7; */
+}
+.about-wrapper p span {
+    font-weight: 600;
 }
 #second-about {
     margin-top: 2vh;

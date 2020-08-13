@@ -2,7 +2,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 import '../styles/pageTabs.css'
-import young from '../assets/baby.png'
 export default class PageTabs extends React.Component {
   state = { 
     currentPage: '/',

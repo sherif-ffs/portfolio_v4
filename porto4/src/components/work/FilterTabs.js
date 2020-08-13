@@ -26,7 +26,7 @@ export default class FilterTabs extends React.Component {
                         Web Development ({this.props.projects.filter(project => project.type == 'web development').length})
                     </div>
                     <div className="filter-tab third-tab" onClick={e => this.props.filterDesigns(e)}>
-                        UI/UX Design ({this.props.projects.filter(project => project.type == 'design').length})
+                        Design ({this.props.projects.filter(project => project.type == 'design').length})
                     </div>
                     <div className="filter-tab last-tab" onClick={e => this.props.filterDataViz(e)}>
                         Data Visualization ({this.props.projects.filter(project => project.type == 'data viz').length})
