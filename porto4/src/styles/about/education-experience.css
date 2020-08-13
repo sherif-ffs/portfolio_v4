@@ -1,0 +1,80 @@
+.education-experience-wrapper {
+    width: 70vw;
+    margin-left: 15vw;
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: row;
+}
+.education-experience-wrapper h1 {
+    font-size: 1.5rem;
+    color: #323748;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}
+.experience {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.company {
+    margin-top: 5vh;
+}
+.company-title {
+    font-size: 1.1rem;
+    color: #323748;
+    font-weight: 600;
+    margin-bottom: 1.5vh;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}
+.company a {
+    font-size: 1.1rem;
+    margin-bottom: 1.5vh;
+    color: #d94458;
+    font-weight: 100;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    text-decoration: none;
+}
+.company a:hover {
+text-decoration: underline;
+}
+.timeline {
+    font-size: 1.1rem;
+    color: #323748;
+    font-weight: 100;
+    margin-top: 1.5vh;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}
+.education-skills {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.skills-tolls {
+    height: 500px;
+    margin-top: 8vh;
+    display: flex;
+    flex-direction: row;
+}
+.skills-tolls h1{
+    font-size: 1.5rem;
+    color: #323748;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}
+.tools {
+    margin-left: 7vw;
+}
+.tools p {
+    font-size: 1.05rem;
+    color: #323748;
+    opacity: .8;
+    font-weight: 100;
+    margin-top: 1.5vh;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}
+.skills p {
+    font-size: 1.05rem;
+    opacity: .8;
+    color: #323748;
+    font-weight: 100;
+    margin-top: 1.5vh;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}

@@ -17,7 +17,7 @@ import trello from './assets/thumbnails/trello.svg'
 import drones from './assets/thumbnails/drones.svg'
 import quentin from './assets/thumbnails/quentin.svg'
 import spirit from './assets/thumbnails/spirit.svg'
-import wine from './assets/thumbnails/wine.svg'
+import vynd from './assets/thumbnails/vynd.svg'
 
 class App extends React.Component {
 
@@ -27,7 +27,7 @@ class App extends React.Component {
         name: "We're #1",
         id: 1,
         type: 'data viz',
-        tags: ['data vizualization', 'd3.js', 'svg', 'topojson'],
+        tags: ['data visualization', 'd3.js', 'svg', 'topojson'],
         github: 'https://github.com/sherif-ffs/we-are-number-1.github.io',
         live: 'https://sherif-ffs.github.io/we-are-number-1.github.io/',
         blurb: "If we’re number one, what exactly are we number one in? Intrigued by this question, I decided to create this project and allow users to compare countries and continents based on a whole host of different metrics."
@@ -40,7 +40,7 @@ class App extends React.Component {
         name: "Visualize the World's Wealth",
         type: 'data viz',
         id: 2,
-        tags: ['data vizualization', 'd3.js', 'svg'],
+        tags: ['data visualization', 'd3.js', 'svg'],
         github: 'https://github.com/sherif-ffs/wealth.github.io',
         live: 'https://sherif-ffs.github.io/wealth.github.io/',
         blurb: 'There’s a lot of money in the world, I built this website to see who owns what.',
@@ -133,6 +133,18 @@ class App extends React.Component {
         color: '#d3696f'
       },
       {
+        name: "Vynd",
+        type: 'design',
+        id: 12,
+        tags: ['design','figma'],
+        github: null,
+        live: null,
+        blurb: `Making wine fun again!`,
+        thumbnail: vynd,
+        project: 'vynd',
+        color: '#d3696f'
+      },
+      {
         name: "Quentin Tarantino",
         type: 'web development',
         id: 10,
@@ -154,18 +166,6 @@ class App extends React.Component {
         blurb: `VS Code theme loosely based on Studio Ghibli's Spirited Away`,
         thumbnail: spirit,
         project: null,
-        color: '#d3696f'
-      },
-      {
-        name: "Vynd",
-        type: 'design',
-        id: 12,
-        tags: ['design','figma'],
-        github: null,
-        live: null,
-        blurb: `Making wine fun again!`,
-        thumbnail: wine,
-        project: 'vynd',
         color: '#d3696f'
       },
     ]

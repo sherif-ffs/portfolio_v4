@@ -1,8 +1,17 @@
+.selected-work {
+    margin-top: 12vh;
+    margin-left: 8vw;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    color: #323748;
+    font-weight: 500;
+    opacity: .9;
+    font-size: 1.4rem;
+}
 .filter-wrappers {
     /* width: 45vw; */
     height: min-content;
     margin-left: 8vw;
-    margin-top: 8vh;
+    margin-top: 2vh;
     display: flex;
     flex-direction: row;
 }
@@ -21,7 +30,7 @@
     transition: .3s;
 }
 .filter-tab:hover {
-    cursor: pointer;
+cursor: pointer;
     background-color: #D94558;    
     color: #fafafa;
     transition: .3s;

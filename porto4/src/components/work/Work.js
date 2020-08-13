@@ -33,6 +33,7 @@ export default class Work extends React.Component {
     }
 
     filterDesigns = (e) => {
+        window.scrollBy(0, 10);
         let projects = this.props.projects
         let filteredProjects = projects.filter(project => project.type === 'design')
         document.querySelectorAll('.filter-tab').forEach(tab => {
@@ -42,6 +43,7 @@ export default class Work extends React.Component {
         this.setState({
             projects: filteredProjects
         })
+        window.scrollBy(0, 700);
     }
 
     filterWebDev = (e) => {
@@ -54,6 +56,7 @@ export default class Work extends React.Component {
         this.setState({
             projects: filteredProjects
         })
+        window.scrollBy(0, 700);
     }
 
 
@@ -67,6 +70,7 @@ export default class Work extends React.Component {
         this.setState({
             projects: filteredProjects
         })
+        window.scrollBy(0, 700);
     }
     render() {
         this.wrapper = React.createRef();
