@@ -9,8 +9,15 @@
 .about-wrapper img {
     width: auto;
     height: 500px;
-    /* border-radius: 10px; */
     box-shadow: 0px 10px 20px rgba(34, 34, 34, 0.3);
+    /* outline: 15px solid #d94458; */
+    outline-offset: 8px;
+    transition: .2s;
+}
+.about-wrapper img:hover {
+    /* outline: 15px solid #d94458; */
+    outline-offset: 0px;
+    transition: .2s;
 }
 .text-container {
     display: flex;
@@ -29,4 +36,9 @@
 }
 #second-about {
     margin-top: 2vh;
+}
+
+.young {
+    height: 75px!important;
+    width: 75px!important;
 }

@@ -4,6 +4,8 @@ import '../../styles/about/about.css'
 import me from '../../assets/me.png'
 import EducationExperience from './EducationExperience'
 import sherif from '../../assets/sherif.png'
+import young from '../../assets/baby.png'
+
 export default class About extends React.Component {
     render() {
         return (

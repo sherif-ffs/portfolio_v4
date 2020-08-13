@@ -53,7 +53,7 @@ export default class Resume extends React.Component {
                     <div className="skills-tolls">
                         <div className="skills">
                             <h1>Tools</h1>
-                            <p>JavaScript (ES6)</p>
+                            <p className="hmm">JavaScript (ES6)</p>
                             <p>React.js</p>
                             <p>D3.js</p>
                             <p>Figma</p>

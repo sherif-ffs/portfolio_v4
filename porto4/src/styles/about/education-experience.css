@@ -63,7 +63,7 @@ text-decoration: underline;
     margin-left: 7vw;
 }
 .tools p {
-    font-size: 1.05rem;
+    font-size: 1rem;
     color: #323748;
     opacity: .8;
     font-weight: 100;
@@ -71,10 +71,18 @@ text-decoration: underline;
     font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
 }
 .skills p {
-    font-size: 1.05rem;
+    font-size: 1rem;
     opacity: .8;
     color: #323748;
     font-weight: 100;
     margin-top: 1.5vh;
     font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+}
+@media screen and (min-width: 1900px) {
+    .tools p {
+        font-size: 1.1rem!important;
+    }
+    .skills p {
+        font-size: 1.1rem!important;
+    }
 }
