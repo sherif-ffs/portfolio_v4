@@ -96,3 +96,28 @@ text-decoration: underline;
         font-size: 1.1rem!important;
     }
 }
+
+@media (max-width: 600px) {
+    .education-experience-wrapper {
+        width: 105vw;
+        margin-left: 10vw;
+        margin-top: 10vh;
+        display: flex;
+        flex-direction: column;
+    }
+    .education-experience-wrapper h1 {
+        font-size: 1.5rem;
+        color: #323748;
+        margin-top: 10vh;
+        font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    }
+    .tools {
+        margin-left: 15vw;
+    }
+    .tools p {
+        font-size: 1.2rem;
+    }
+    .skills p {
+        font-size: 1.2rem;
+    }
+}

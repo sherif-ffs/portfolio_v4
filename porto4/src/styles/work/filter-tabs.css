@@ -48,3 +48,19 @@ cursor: pointer;
     /* font-weight: 500; */
     color: #fafafa;
 }
+
+@media (max-width: 600px) {
+    .selected-work {
+        margin-left: 5vw;
+        font-size: 1.4rem;
+    }
+    .filter-wrappers {
+        width: 130vw!important;
+        margin-left: 5vw;
+    }
+    .filter-tab {
+        display: flex;
+        flex: 1;
+        font-size: 1.1rem;
+    }
+}

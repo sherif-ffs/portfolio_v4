@@ -129,3 +129,19 @@
     color: #d94458;
     opacity: 1!important;
 }
+
+@media (max-width: 600px) {
+    .card-wrapper {
+        height: min-content;
+        width: 130%;
+        margin-left: 8vw;
+        display: flex;
+        flex-direction: column-reverse;
+        margin-top: 10vh;
+    }
+    .card-content {
+        display: flex;
+        flex-direction: column;
+        flex: 1.1;
+    }
+}
