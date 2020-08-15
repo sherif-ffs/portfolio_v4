@@ -4,8 +4,6 @@ import Intro from './Intro'
 import ProjectCard from './ProjectCard'
 import TestCard from './TestCard.js'
 import FilterTabs from './FilterTabs'
-import Anime from "@mollycule/react-anime";
-import animejs, { AnimeInstance } from "animejs";
 import Footer from '../Footer'
 import '../../styles/work/work.css'
 
@@ -78,7 +76,6 @@ export default class Work extends React.Component {
         let projects
         if (this.state.projects !== undefined) {
             projects = this.state.projects.map((project, index) => {
-                console.log('project: ', project)
                 return(
                     <ProjectCard 
                         key={index}
@@ -106,39 +103,6 @@ export default class Work extends React.Component {
                     filterDataViz={this.filterDataViz}
                 >
                 </FilterTabs>
-                {/* <div className="projects-wrappers" ref={this.wrapper}>
-                    <Anime
-                        in
-                        duration={300}
-                        appear
-                        onEntering={{
-                        translateY: [100, 0],
-                        opacity: [0, 1],
-                        delay: animejs.stagger(160),
-                        easing: "linear"
-                        }}
-                    >
-                    {
-                    projects = this.state.projects.map((project, index) => {
-                    return(
-                        <ProjectCard 
-                            key={index}
-                            name={project.name}
-                            blurb={project.blurb}
-                            id={project.id}
-                            live={project.live}
-                            type={project.type}
-                            github={project.github}
-                            thumbnail={project.thumbnail}
-                            tags={project.tags}
-                            project={project.project}
-                        >
-                        </ProjectCard>
-                    )
-                    })
-                    }
-                    </Anime>
-                </div> */}
                 <div className="test-card-wrapper">
                 {
                     projects = this.state.projects.map((project, index) => {

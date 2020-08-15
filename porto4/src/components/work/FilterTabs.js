@@ -28,13 +28,13 @@ export default class FilterTabs extends React.Component {
                             All ({this.props.projects.length})
                         </div>
                         <div className="filter-tab second-tab" onClick={e => this.props.filterWebDev(e)}>
-                            Web Development ({this.props.projects.filter(project => project.type == 'web development').length})
+                            Web Development ({this.props.projects.filter(project => project.type === 'web development').length})
                         </div>
                         <div className="filter-tab third-tab" onClick={e => this.props.filterDesigns(e)}>
-                            Design ({this.props.projects.filter(project => project.type == 'design').length})
+                            Design ({this.props.projects.filter(project => project.type === 'design').length})
                         </div>
                         <div className="filter-tab last-tab" onClick={e => this.props.filterDataViz(e)}>
-                            Data Visualization ({this.props.projects.filter(project => project.type == 'data viz').length})
+                            Data Visualization ({this.props.projects.filter(project => project.type === 'data viz').length})
                         </div>
                     </div>
                 </>

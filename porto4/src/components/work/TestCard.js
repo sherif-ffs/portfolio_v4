@@ -12,35 +12,22 @@ export default class TestCard extends React.Component {
                 <div className="card-content">
                     <h1>{this.props.name}</h1>
                     <div className="tags-wrapper">
-                        {/* {this.props.tags.map((tag, index) => {
-                            if (index == this.props.tags.length - 1) {
-                                return(
-                                    <p className="tag">{tag} </p>
-                                )
-                            } else {
-                                return(
-                                    <p className="tag">{tag},</p>
-                                )
-                            }
-                        })} */}
                         <p className="project-tag">{this.props.tags[0]}, {this.props.tags[1]}, {this.props.tags[2]} {this.props.tags[3] ? `, ${this.props.tags[3]}` : null}</p>
                     </div>
-                    {/* <p> */}
-                        {this.props.id == 10 
-                        ? <p className="blurb">Inspired by the team at <a href="https://paravelinc.com/work/tmfo/" id="paravel" target="_blank">Paravel</a> I decided to copy their "The Many Faces Of" series and make a fanpage of sorts for my favorite director, Quentin Tarantino</p> 
+                        {this.props.id === 10 
+                        ? <p className="blurb">Inspired by the team at <a href="https://paravelinc.com/work/tmfo/" id="paravel" target="_blank" rel="noopener noreferrer">Paravel</a> I decided to copy their "The Many Faces Of" series and make a fanpage of sorts for my favorite director, Quentin Tarantino</p> 
                         : <p className="blurb">{this.props.blurb}</p> 
                         }
-                    {/* </p> */}
                     <div className="card-content-links">
                     {this.props.github && this.props.live  ? 
                         <>
-                        <a href={this.props.live} target="_blank"><LaunchIcon className="icon" fontSize="large"></LaunchIcon></a>
-                        <a href={this.props.github} target="_blank"><GitHubIcon className="icon second-icon" fontSize="large"></GitHubIcon></a>
+                        <a href={this.props.live} target="_blank" rel="noopener noreferrer"><LaunchIcon className="icon" fontSize="large"></LaunchIcon></a>
+                        <a href={this.props.github} target="_blank" rel="noopener noreferrer"><GitHubIcon className="icon second-icon" fontSize="large"></GitHubIcon></a>
                         </>
                         : 
                         this.props.github ? 
                         <>
-                        <a href={this.props.github} target="_blank"><GitHubIcon className="icon" fontSize="large"></GitHubIcon></a>
+                        <a href={this.props.github} target="_blank" rel="noopener noreferrer"><GitHubIcon className="icon" fontSize="large"></GitHubIcon></a>
                         <LaunchIcon className="icon second-icon hidden-icon" fontSize="large"></LaunchIcon>
                         </>
                         :
@@ -51,16 +38,15 @@ export default class TestCard extends React.Component {
                     </div>
                 </div>
                 <div className="card-image" >
-                    {/* <img src={map}></img> */}
                     {
                     this.props.github && this.props.live 
-                    ? <a href={this.props.live} target="_blank">
+                    ? <a href={this.props.live} target="_blank" rel="noopener noreferrer">
                         <div className="thumbnail">
                             <img src={this.props.thumbnail}></img>
                         </div>
                     </a>
                     : this.props.github 
-                    ? <a href={this.props.github} target="_blank">
+                    ? <a href={this.props.github} target="_blank" rel="noopener noreferrer">
                         <div className="thumbnail">
                             <img src={this.props.thumbnail}></img>
                         </div>

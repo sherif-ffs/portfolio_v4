@@ -9,7 +9,7 @@ export default class About extends React.Component {
         return (
             <>
             <div className="about-wrapper">
-                <img src={sherif}></img>
+                <img src={sherif} alt="Me, Sherif Elmetwally"></img>
                 <div className="text-container">
                 <p>My name is Sherif, I'm a designer/developer, and current junior at the New Jersey Institute of 
                     Technology where I study <span>Human-Computer Interaction</span> with a focus on Web and Mobile Development.</p>

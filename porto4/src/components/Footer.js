@@ -15,17 +15,17 @@ export default class Footer extends React.Component {
                 <div className="footer-container">
                     <div className="footer-icons-wrapper">
                         <div className="footer-icon-container">
-                        <a href="https://github.com/sherif-ffs" target="_blank">
+                        <a href="https://github.com/sherif-ffs" target="_blank" rel="noopener noreferrer">
                             <FaGithub className="footer-icon"></FaGithub>
                         </a>
                         </div>
                         <div className="footer-icon-container">
-                        <a href="https://www.linkedin.com/in/selmetwa/" target="_blank">
+                        <a href="https://www.linkedin.com/in/selmetwa/" target="_blank" rel="noopener noreferrer">
                             <FaLinkedin className="footer-icon"></FaLinkedin>
                         </a>
                         </div>
                         <div className="footer-icon-container">
-                        <a href="https://dribbble.com/selmetwa" target="_blank">
+                        <a href="https://dribbble.com/selmetwa" target="_blank" rel="noopener noreferrer">
                             <FaDribbble className="footer-icon"></FaDribbble>
                         </a>
                         </div>
