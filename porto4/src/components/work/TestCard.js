@@ -1,6 +1,8 @@
 import React from 'react'
 import LaunchIcon from '@material-ui/icons/Launch';
 import GitHubIcon from '@material-ui/icons/GitHub';
+import Button from '@material-ui/core/Button';
+
 import '../../styles/work/test-card.css'
 import { Link } from 'react-router-dom';
 
@@ -32,7 +34,8 @@ export default class TestCard extends React.Component {
                         </>
                         :
                         <Link to={`projects/${this.props.project}`} className="view-case">
-                            <p className="view-case-study">View Case Study</p> 
+                            {/* <p className="view-case-study">View Case Study</p>  */}
+                            <Button className="view-case-study">View Case Study</Button>
                         </Link>
                         }
                     </div>
