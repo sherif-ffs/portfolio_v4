@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import resume from '../resumes/resume_web.pdf'
+import resume from '../resumes/resume_web_v2.pdf'
 
 import '../styles/pageTabs.css'
 export default class PageTabs extends React.Component {

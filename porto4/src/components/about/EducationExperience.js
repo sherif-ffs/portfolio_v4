@@ -63,6 +63,10 @@ export default class Resume extends React.Component {
                             <p>Flask</p>
                             <p>Python</p>
                             <p>Git</p>
+                            <p>Jinja</p>
+                            <p>SQLAlchemy</p>
+                            <p>Netlify</p>
+                            <p>Heroku</p>
                             <p>Chrome Developer Tools</p>
                             <p>Photoshop</p>
                             <p>FlexBox</p>
@@ -76,6 +80,8 @@ export default class Resume extends React.Component {
                             <p>Front-End Development</p>
                             <p>Responsive Web Design</p>
                             <p>Data Visualization</p>
+                            <p>Prototyping</p>
+                            <p>Wireframing</p>
                         </div>
                     </div>
                 </div>

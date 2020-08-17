@@ -8,6 +8,7 @@ import Work from './components/work/Work'
 import Test from './components/test'
 import Hmm from './components/hmm'
 import Vynd from './components/Vynd'
+import OutboundTransmissions from './components/OutboundTransmissions'
 
 import map from './assets/thumbnails/map.svg'
 import wealth from './assets/thumbnails/realwealth.svg'
@@ -18,8 +19,6 @@ import drones from './assets/thumbnails/drones.svg'
 import quentin from './assets/thumbnails/quentin.svg'
 import spirit from './assets/thumbnails/spirit.svg'
 import vynd from './assets/thumbnails/vynd.svg'
-
-import resume from './resumes/resume_web.pdf'
 
 class App extends React.Component {
 
@@ -108,7 +107,7 @@ class App extends React.Component {
         live: null,
         blurb: 'As part of my summer internship I worked on the redesign of outbound transmissions manuals.',
         thumbnail: '',
-        project: null,
+        project: 'outbound',
         color: '#d3696f'
       },
       {
@@ -186,9 +185,6 @@ class App extends React.Component {
             <Route path="/about"
               render={(routeProps) => <About {...routeProps} state={this.state} loading={this.state.loading} />}
              />
-             <Route path={resume}
-              // render={(routeProps) => <Resume {...routeProps} />}
-             />
              <Route path="/projects/launchpad" 
               render={(routeProps) => <Test {...routeProps} />}
               />
@@ -197,6 +193,9 @@ class App extends React.Component {
               />
               <Route path="/projects/Vynd" 
               render={(routeProps) => <Vynd {...routeProps} />}
+              />
+              <Route path="/projects/outbound"
+              render={(routeProps) => <OutboundTransmissions {...routeProps} />}
               />
           </div>
         </BrowserRouter>

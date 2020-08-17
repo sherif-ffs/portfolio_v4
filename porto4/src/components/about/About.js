@@ -11,7 +11,7 @@ export default class About extends React.Component {
             <div className="about-wrapper">
                 <img src={sherif} alt="Me, Sherif Elmetwally"></img>
                 <div className="text-container">
-                <p>My name is Sherif, I'm a designer/developer, and current junior at the New Jersey Institute of 
+                <p>My name is Sherif, I'm a designer/developer, and current senior at the New Jersey Institute of 
                     Technology where I study <span>Human-Computer Interaction</span> with a focus on Web and Mobile Development.</p>
                 <p id="second-about">Long story short, I've been in front of a computer, for better or for worse,
                      for the better part of the last decade. My interest in technology evolved into a passion for web design. When I 
