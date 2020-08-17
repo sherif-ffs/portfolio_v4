@@ -19,6 +19,8 @@ import quentin from './assets/thumbnails/quentin.svg'
 import spirit from './assets/thumbnails/spirit.svg'
 import vynd from './assets/thumbnails/vynd.svg'
 
+import resume from './resumes/resume_web.pdf'
+
 class App extends React.Component {
 
   state = {
@@ -71,7 +73,7 @@ class App extends React.Component {
         blurb: 'Yelp clone built using React.js, Redux, Material UI, React-Router, and Map gl',
         thumbnail: food,
         project: null,
-        color: '#d3696f'
+        color: '#C0212E'
       },
       {
         name: "Third-Party Marketplace",
@@ -184,8 +186,8 @@ class App extends React.Component {
             <Route path="/about"
               render={(routeProps) => <About {...routeProps} state={this.state} loading={this.state.loading} />}
              />
-             <Route path="/resume"
-              render={(routeProps) => <Resume {...routeProps} />}
+             <Route path={resume}
+              // render={(routeProps) => <Resume {...routeProps} />}
              />
              <Route path="/projects/launchpad" 
               render={(routeProps) => <Test {...routeProps} />}

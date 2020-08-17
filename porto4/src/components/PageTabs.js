@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import resume from '../resumes/resume_web.pdf'
 
 import '../styles/pageTabs.css'
 export default class PageTabs extends React.Component {
@@ -46,12 +47,13 @@ export default class PageTabs extends React.Component {
                   </Link>
               </li>
               <li className='nav-item'>
-                  <Link className={this.isActiveTab('/resume')} to="/resume"
-                          onClick={event => this.onTabClick(event, '/resume')}
+                  {/* <Link className={this.isActiveTab('/resume')} to={resume}
+                          onClick={event => this.onTabClick(event, {resume})}
                           style={{ textDecoration: 'none' }}
                           >
                       Resume
-                  </Link>
+                  </Link> */}
+                  <a href={resume} target="_blank" rel="noopener noreferrer" className="resume-link">Resume</a>
               </li>
           </div>
         </ul>

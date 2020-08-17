@@ -119,6 +119,7 @@ export default class Work extends React.Component {
                             tags={project.tags}
                             project={project.project}
                             position={project.position}
+                            color={project.color}
                         >
                         </TestCard>
                     )

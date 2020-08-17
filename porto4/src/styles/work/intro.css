@@ -10,12 +10,15 @@
     opacity: .8;
     font-size: 1.5rem;
     font-weight: 400;
+    font-kerning: normal;
+
 }
 .intro-wrapper h1 {
     font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
     color: #323748;
     font-weight: 900;
     margin: 0;
+    font-kerning: normal;
     font-size: 5.8rem;
 }
 .second-title {
@@ -28,6 +31,7 @@
     width: 65%;
     line-height: 5vh;
     font-size: 1.5rem;
+    font-kerning: normal;
     margin-top: 5vh;
     font-weight: 100;
 }

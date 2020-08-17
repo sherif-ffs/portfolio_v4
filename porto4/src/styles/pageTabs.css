@@ -83,7 +83,22 @@ html {
     padding: 7px;
     border-radius: 3px;
 }
-
+.resume-link {
+    cursor: pointer;
+    color: #323748;
+    opacity: .3;
+    transition: .2s;
+    font-family: 'Lato', Helvetica,Arial , sans-serif;
+    font-weight: 500;
+    transition-timing-function: ease-in-out;
+    padding: 7px;
+    border-radius: 3px;
+    text-decoration: none; 
+}
+.resume-link:hover {
+    background-color: #e1e5e5;
+    opacity: 1;
+}
 .nav-item .nav-link:hover {
     background-color: #e1e5e5;
     opacity: 1;
