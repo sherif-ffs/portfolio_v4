@@ -16,7 +16,7 @@ export default class Footer extends React.Component {
                     <div className="footer-icons-wrapper">
                         <div className="footer-icon-container">
                         <a href="https://github.com/sherif-ffs" target="_blank" rel="noopener noreferrer">
-                            <FaGithub className="footer-icon"></FaGithub>
+                            <FaGithub className="footer-icon first-footer-icon"></FaGithub>
                         </a>
                         </div>
                         <div className="footer-icon-container">

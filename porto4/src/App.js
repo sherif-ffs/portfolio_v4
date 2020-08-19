@@ -19,6 +19,9 @@ import drones from './assets/thumbnails/drones.svg'
 import quentin from './assets/thumbnails/quentin.svg'
 import spirit from './assets/thumbnails/spirit.svg'
 import vynd from './assets/thumbnails/vynd.svg'
+import launchpad from './assets/thumbnails/launchpad.svg'
+import tpm from './assets/thumbnails/tpm.svg'
+import transmission from './assets/thumbnails/transmission.svg'
 
 class App extends React.Component {
 
@@ -58,7 +61,7 @@ class App extends React.Component {
         github: null,
         live: null,
         blurb: 'There’s a lot of money in the world, I built this website to see who owns what.',
-        thumbnail: '',
+        thumbnail: launchpad,
         project: 'launchpad',
         color: '#d3696f'
       },
@@ -82,7 +85,7 @@ class App extends React.Component {
         github: null,
         live: null,
         blurb: 'Third-Party Marketplace redesign.',
-        thumbnail: '',
+        thumbnail: tpm,
         project: 'tpm',
         color: '#d3696f'
       },
@@ -106,7 +109,7 @@ class App extends React.Component {
         github: null,
         live: null,
         blurb: 'As part of my summer internship I worked on the redesign of outbound transmissions manuals.',
-        thumbnail: '',
+        thumbnail: transmission,
         project: 'outbound',
         color: '#d3696f'
       },

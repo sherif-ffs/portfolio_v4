@@ -1,6 +1,6 @@
 .footer {
     height: 10vh;
-    margin-top: 15vh;
+    margin-top: 25vh;
     width: 100vw;
     background-color: #f2f2f2;
 }
@@ -21,6 +21,9 @@
     font-size: 5rem;
     color: #323748!important;
     padding: 0!important;
+}
+.first-footer-icon {
+    margin-left: 0vw!important;
 }
 .footer-icon {
     font-size: 1.7rem;
