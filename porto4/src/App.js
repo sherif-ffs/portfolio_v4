@@ -60,7 +60,7 @@ class App extends React.Component {
         tags: ['ui/ux', 'figma', 'internship'],
         github: null,
         live: null,
-        blurb: 'There’s a lot of money in the world, I built this website to see who owns what.',
+        blurb: 'As part of my summer internship I participated in a two week google design sprint to improve the remote onboarding experience for new Fidelity UXD Hires.',
         thumbnail: launchpad,
         project: 'launchpad',
         color: '#d3696f'
