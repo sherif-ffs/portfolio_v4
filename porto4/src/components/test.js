@@ -2,13 +2,16 @@ import React from 'react'
 
 import '../styles/work/launchpad.css'
 // import banner from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/banner.svg'
+import sprint_interview from '../assets/internship/portfolio_materials_sherif/sprint/case_study_materials/interviews.png'
+import compare from '../assets/internship/portfolio_materials_sherif/sprint/case_study_materials/compare.png'
+import sketches from '../assets/internship/portfolio_materials_sherif/sprint/case_study_materials/sketches.png'
+import initial from '../assets/internship/portfolio_materials_sherif/sprint/case_study_materials/initial.png'
 
 export default class Test extends React.Component {
     render() {
         return (
             <div className="launchpad-content">
                 <div className="launchpad-header">
-                    {/* <img src={banner}></img> */}
                 </div>
                     <div className="launchpads-intro">
                         <div className="launchpad-what-i-did">
@@ -53,6 +56,76 @@ export default class Test extends React.Component {
                         <p><span>WHAT:</span> The onboarding process</p>
                         <p></p>
                     </div>
+                    <div className="launchpad-redesign">
+                        <h1>User Interviews</h1>
+                        <p>The first thing we did was interview 4 recent UXD hires 
+                            to get feedback on the strengths and weakness of the current remote onboarding experience.
+                        </p>
+
+                        <div className="transmission-redesign-card-layout">
+                            <img src={sprint_interview}></img>
+                            <div className="transmission-new-features">
+                                <h1>Key Takeaways from interview</h1>
+                                <p>1. Not sure of organizational structure</p>
+                                <p>2. Spotify Agile Model is confusing and overwhelming</p>
+                                <p>3. Difficult to understand your teammates roles</p>
+                                <p>4. Difficult to understand your teams project and tools they use</p>
+                                <p>5. It is hard to get to know your coworkers</p>
+                                <p>6. It is difficult to get familar with F*****y as a company</p>
+                            </div>
+                        </div>
+                        <h1 className="sprint-section-header">Competitive Analysis</h1>
+                        <p>Next we looked at other well known companys to see if there are
+                            any positive features we can borrow to improve our onboarding experience.
+                        </p>
+                        <div className="sprint-compare">
+                            <img src={compare} className="special"></img>
+                            <div className="transmission-new-features">
+                                <h1>Common onboarding themes</h1>
+                                <p>1. Central source of truth</p>
+                                <p>2. Make onboarding fun</p>
+                                <p>3. Interactive content, do instead of watching</p>
+                                <p>4. Help new hires visualize organizational structure</p>
+                            </div>
+                        </div>
+                        <h1 className="sprint-section-header">Sketching</h1>
+                        <p>Next all seven interns sketched out concepts, and we then used stickies to vote on 
+                            the features or concepts we would like to carry forward to the higher fidelity design.
+                        </p>
+                        <div className="sprint-compare">
+                            <img src={sketches} className="special"></img>
+                            <div className="transmission-new-features">
+                                <h1>Popular concepts</h1>
+                                <p>1. Universe to help new hires visualize both the companys organizational
+                                    structure and the Spotify Agile Model.
+                                </p>
+                                <p>2. Create a central hub where everything for the onboarding process will live.</p>
+                                <p>3. Gamify the onboarding tasks</p>
+                            </div>
+                        </div>
+                        <h1 className="sprint-section-header">Features for the initial design</h1>
+                        <p>1. Universe to help new hires visualize both the companys organizational
+                        structure and the Spotify Agile Model.</p>
+                        <p>2. Circles will represent a team member</p>
+                        <p>3. User can scroll up and down to zoom in and out, going from a team level at the most specific, to all of the UXD Department.</p>
+                        <p>4. Users can click on a person to view details</p>
+                        <p>5. Option to toggle an avatar to allow new hires to show their personality</p>
+                        <h1 className="sprint-section-header">Initial Design</h1>
+                        <p>We then ran 4 user testing sessions to gain feedback on our first ideas. <span>Since I worked on the Universe section I will only
+                            talk about the feedback we received for that section.</span>
+                        </p>
+                        <div className="sprint-compare">
+                            <img src={initial} className="special"></img>
+                            <div className="transmission-new-features">
+                                <h1>Feedback for Universe</h1>
+                                <p>1. Organic structure of the circles was not clear</p>
+                                <p>2. Some of the interviewees thought that the distance from the center of the circle had some signifigance</p>
+                                <p>3. Back arrow in the top left was almost a duplication of the bar on the right</p>
+                                <p>4. Toggle avatars function was not easy to see</p>
+                            </div>
+                        </div>
+                    </div>
+
             </div>
         )
     }
