@@ -6,6 +6,10 @@ import sprint_interview from '../assets/internship/portfolio_materials_sherif/sp
 import compare from '../assets/internship/portfolio_materials_sherif/sprint/case_study_materials/compare.png'
 import sketches from '../assets/internship/portfolio_materials_sherif/sprint/case_study_materials/sketches.png'
 import initial from '../assets/internship/portfolio_materials_sherif/sprint/case_study_materials/initial.png'
+import landing_page from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/Universe_StartPage.png'
+import squad_modal from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/Universe_StartPage-1.png'
+import user_modal from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/user_modal.png'
+import tribe from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/tribe.png'
 
 export default class Test extends React.Component {
     render() {
@@ -125,7 +129,47 @@ export default class Test extends React.Component {
                             </div>
                         </div>
                     </div>
-
+                    <div className="real-screenshots-sprint">
+                    <h1 className="sprint-section-header">Final Screens</h1>
+                    <h1 className="sprint-section-subhead">Squad View</h1>
+                        <div className="real-screenshots-sprint-content">
+                            <img src={landing_page}></img>
+                            <div className="real-screenshots-sprint-text">
+                                <h1>Features</h1>
+                                <p>1. Blurb in the top right explaining how this section fits within the Spotify Agile Model</p>
+                                <p>2. Slider to navigate throughout the universe</p>
+                                <p>3. Option to toggle between avatar view and photo view</p>
+                                <p>4. Tab filtering to change squads (this is only rendered if you belong to multiple squads)</p>
+                                <p>5. If you click on the center of the squad a modal will appear providing more details about Squad 1</p>
+                            </div>
+                        </div>
+                        <h1 className="sprint-section-subhead">When you click on the center a modal will pop up providing details about the squad.</h1>
+                        <div className="real-screenshots-sprint-content">
+                            <img src={squad_modal}></img>
+                            <div className="real-screenshots-sprint-text">
+                                <h1>Features</h1>
+                                <p>1. List of squad members</p>
+                                <p>2. Visual importance given to the squad leader</p>
+                                <p>3. List of projects this squad is working on/has worked on</p>
+                                <p>4. List of tools they use; Jira, Figma, Confluence, teams channels, etc...</p>
+                            </div>
+                        </div>
+                        <h1 className="sprint-section-subhead">When you click on a user this modal will popup showing that users profile.</h1>
+                        <div className="real-screenshots-sprint-content">
+                            <img src={user_modal}></img>
+                        </div>
+                        <h1 className="sprint-section-subhead">You can move down the slider and zoom out on the universe to the tribe level.</h1>
+                        <div className="real-screenshots-sprint-content">
+                            <img src={tribe}></img>
+                            <div className="real-screenshots-sprint-text">
+                                <h1>Features</h1>
+                                <p>1. List of squad members</p>
+                                <p>2. Visual importance given to the squad leader</p>
+                                <p>3. List of projects this squad is working on/has worked on</p>
+                                <p>4. List of tools they use; Jira, Figma, Confluence, teams channels, etc...</p>
+                            </div>
+                        </div>
+                    </div>
             </div>
         )
     }

@@ -72,6 +72,11 @@
 .sprint-section-header {
     margin-top: 15vh;
 }
+.sprint-section-subhead {
+    font-weight: 500!important;
+    opacity: .8;
+    margin-top: 15vh;
+}
 .launchpad-new-features {
     flex: 1;
     margin-left: 5%!important;
@@ -85,4 +90,52 @@
 .sprint-compare {
     display: flex;
     flex-direction: column!important;
+}
+
+.real-screenshots-sprint-content {
+    display: flex;
+    flex-direction: column!important;
+    height: min-content;
+    width: 150%!important;
+    margin-left: 0!important;
+    margin-top: 5%;
+}
+.real-screenshots-sprint-content div {
+    display: flex;
+    margin-right: 15vw!important;
+    margin-left: 0!important;
+    flex: 1;
+    flex-direction: column!important;
+}
+.real-screenshots-sprint-content h1 {
+    font-size: 1.5rem;
+    font-weight: 900;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    white-space: nowrap;
+    color: #323748;
+}
+.real-screenshots-sprint-content p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    opacity: .8;
+    line-height: 4vh;
+    margin-top: 1.5vh;
+    white-space: nowrap;
+    color: #323748;
+}
+.real-screenshots-sprint-content img{
+    margin-left: 0!important;
+    width: 70%!important;
+    display: flex;
+    margin-right: 5%!important;
+}
+.real-screenshots-sprint-content span {
+    font-weight: 900;
+}
+.squad-modal {
+    margin-left: 0!important;
+    width: 40%!important;
+    display: flex;
+    margin-right: 5%!important;
 }
