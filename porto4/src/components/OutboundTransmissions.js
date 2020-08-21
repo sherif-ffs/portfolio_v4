@@ -1,13 +1,17 @@
 import React from 'react'
 
 import '../styles/work/outbound-transmissions.css'
-import outboundBanner from '../assets/internship/portfolio_materials_sherif/outbound_transmissions/final_transmissions_screens/banner.svg'
 import cardLayout from '../assets/internship/portfolio_materials_sherif/outbound_transmissions/final_transmissions_screens/card_leyout-1.svg'
 import manual_text from '../assets/internship/portfolio_materials_sherif/outbound_transmissions/final_transmissions_screens/manual_without_sidebar.svg'
+import manual from '../assets/internship/portfolio_materials_sherif/outbound_transmissions/final_transmissions_screens/manual_without_sidebar-1.svg'
+import manual_modal from '../assets/internship/portfolio_materials_sherif/outbound_transmissions/final_transmissions_screens/manual_without_sidebar-3.svg'
+
+import Footer from './Footer'
 
 export default class OutboundTransmissions extends React.Component {
     render() {
         return (
+            <>
             <div className="outbound-transmissions-wrapper">
                 <div className="transmissions-header"></div>
                 <div className="transmission-content">
@@ -25,7 +29,7 @@ export default class OutboundTransmissions extends React.Component {
                             <h1>Tools Used</h1>
                             <p>Figma</p>
                             <p>Mural</p>
-                            <p>Basis Design</p>
+                            <p>Basis Design System</p>
                         </div>
                         <div className="duration">
                             <h1>Duration</h1>
@@ -86,24 +90,47 @@ export default class OutboundTransmissions extends React.Component {
                                 <div className="transmission-new-features">
                                     <h1>Landing Page Redesign</h1>
                                     <p style={{fontWeight: 'bold'}}>New Features</p>
-                                    <p>1.Filtering</p>
-                                    <p>2.Search Functionality</p>
-                                    <p>3.Add Category type to card</p>
+                                    <p>1. Filtering</p>
+                                    <p>2. Search Functionality</p>
+                                    <p>3. Add Category type to card</p>
                                 </div>
                             </div>
                             <div className="transmission-redesign-manual">
                                 <img src={manual_text}></img>
                                 <div className="transmission-new-features">
-                                    <h1>Landing Page Redesign</h1>
+                                    <h1>Manual Introduction Screen Redesign</h1>
                                     <p style={{fontWeight: 'bold'}}>New Features</p>
-                                    <p>1.Filtering</p>
-                                    <p>2.Search Functionality</p>
-                                    <p>3.Add Category type to card</p>
+                                    <p>1. Make the "View Manual" button very prominent on the page</p>
+                                    <p>2. Create collapseable drawers to reduce the amount of visual noise.</p>
+                                    <p>3. Move version number to the top</p>
+                                </div>
+                            </div>
+                            <div className="transmission-redesign-manual">
+                                <img src={manual}></img>
+                                <div className="transmission-new-features">
+                                    <h1>Manual Converted to HTML Table</h1>
+                                    <p style={{fontWeight: 'bold'}}>Features</p>
+                                    <p>1. Searchbar</p>
+                                    <p>2. Searchable multiselect by record segment</p>
+                                    <p>3. Collapseable table rows to reduce visual noise</p>
+                                    <p>4. Export as PDF/Excel file</p>
+                                    <p>5. Pagination to improve load speeds</p>
+                                </div>
+                            </div>
+                            <div className="transmission-redesign-manual">
+                                <img src={manual_modal}></img>
+                                <div className="transmission-new-features">
+                                    <h1>Manual With Modal</h1>
+                                    <p style={{fontWeight: 'bold'}}>Features</p>
+                                    <p>1. Allow user to quickly access data they need.</p>
+                                    <p>2. Can copy to clipboard and pass in queries easily</p>
                                 </div>
                             </div>
                         </div>
                     </div>
             </div>
+            <Footer></Footer>
+            </>
         )
     }
 }

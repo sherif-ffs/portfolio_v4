@@ -1,0 +1,56 @@
+.launchpad-content {
+    margin-top: 3vh;
+}
+.launchpad-header {
+    height: 85vh!important;
+    width: 100vw!important;
+    margin-left: 0!important;
+    background-size: cover;
+    background-image: url(../../assets/internship/portfolio_materials_sherif/sprint/final_screens/banner.svg)!important;
+}
+.launchpads-intro {
+    display: flex;
+    flex-direction: row!important;
+    height: min-content;
+    width: 80%;
+    margin-left: 2.5%!important;
+    margin-top: 5%;
+}
+.launchpads-intro div {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    } 
+
+.launchpad-content div {
+    display: flex;
+    flex-direction: column;
+    height: min-content;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.launchpad-content h1 {
+    font-size: 1.5rem;
+    font-weight: 900;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    color: #323748;
+}
+.launchpad-content p {
+    font-size: 1.2rem;
+    font-weight: 400;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
+    opacity: .8;
+    line-height: 4vh;
+    /* white-space: nowrap; */
+    margin-top: 1.5vh;
+    color: #323748;
+}
+.launchpad-content span {
+    font-weight: 900;
+}
+.launchpad-intro div {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}  
