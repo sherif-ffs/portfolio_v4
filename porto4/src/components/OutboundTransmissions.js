@@ -39,7 +39,7 @@ export default class OutboundTransmissions extends React.Component {
                     <div className="transmission-description">
                         <h1>Backstory</h1>
                         <p>Firms can leverage a suite of <span>data transmission files</span> to receive
-                        client-specific data from F******y’s core brokerage systems in bulk on a regular basis.</p>
+                        client-specific data from Financial Company core brokerage systems in bulk on a regular basis.</p>
                     </div>
                     <div className="transmission-goal">
                         <h1>Goal</h1>

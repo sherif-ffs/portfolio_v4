@@ -57,7 +57,7 @@ class App extends React.Component {
         name: "LaunchPad",
         type: 'design',
         id: 3,
-        tags: ['ui/ux', 'figma', 'internship'],
+        tags: ['ui/ux', 'figma', 'internship', 'google design sprint'],
         github: null,
         live: null,
         blurb: 'As part of my summer internship I participated in a two week google design sprint to improve the remote onboarding experience for new Fidelity UXD Hires.',

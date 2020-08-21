@@ -43,13 +43,13 @@ export default class Test extends React.Component {
                     </div>
                     <div className="sprint-problem-statement">
                         <h1>Problem Statement</h1>
-                        <p>I am a new F*****y employee starting my position as a remote UXD hire.
+                        <p>I am a new Financial Company employee starting my position as a remote UXD hire.
                             I need a comprehensive and welcoming onboarding experience to help get started and ensure that I'm set up for success.
                             The problem is, the current onboarding experience is built to support in-office hires, which can leave me with questions
                             and problems that aren't covered in my onboarding experience. This makes me feel uninformed and unprepared to be successful
                             as I might be if I was in an office environment, and may alter my overall opinion of Fidelity as a company.
                         </p>
-                        <p><span>WHO:</span> New F*****y UXD hires</p>
+                        <p><span>WHO:</span> New Financial Company UXD hires</p>
                         <p><span>WHAT:</span> The onboarding process</p>
                         <p></p>
                     </div>
