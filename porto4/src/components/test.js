@@ -10,10 +10,14 @@ import landing_page from '../assets/internship/portfolio_materials_sherif/sprint
 import squad_modal from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/Universe_StartPage-1.png'
 import user_modal from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/user_modal.png'
 import tribe from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/tribe.png'
+import final from '../assets/internship/portfolio_materials_sherif/sprint/final_screens/final.png'
+
+import Footer from './Footer'
 
 export default class Test extends React.Component {
     render() {
         return (
+            <>
             <div className="launchpad-content">
                 <div className="launchpad-header">
                 </div>
@@ -163,14 +167,26 @@ export default class Test extends React.Component {
                             <img src={tribe}></img>
                             <div className="real-screenshots-sprint-text">
                                 <h1>Features</h1>
-                                <p>1. List of squad members</p>
-                                <p>2. Visual importance given to the squad leader</p>
-                                <p>3. List of projects this squad is working on/has worked on</p>
-                                <p>4. List of tools they use; Jira, Figma, Confluence, teams channels, etc...</p>
+                                <p>1. Hover state indicating number of members and who the squad lead is</p>
+                                <p>2. Size of each circle is relative to the amount of people in each squad</p>
                             </div>
                         </div>
+                        <h1 className="sprint-section-subhead">Lastly you can view all of the business domains that fall under the UXD department.</h1>
+                        <div className="real-screenshots-sprint-content">
+                            <img src={final}></img>
+                            <div className="real-screenshots-sprint-text">
+                                <h1>Features</h1>
+                                <p>1. Size of each circle is relative to the amount of people in each business unit</p>
+                            </div>
+                        </div>
+                    <h1 className="sprint-section-header">Learnings</h1>
+                    <p>- Rushing to the high fidelity stage might be tempting, but most of the work is everything that happens before that step.</p>
+                    <p>- Design can never be an isolated process. Product & Business teams can give great insight into the features you’re working on. Be sure to involve them.</p>
                     </div>
+
             </div>
+            <Footer></Footer>
+            </>
         )
     }
 }
