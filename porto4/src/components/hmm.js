@@ -122,8 +122,10 @@ export default class TPM extends React.Component {
                                     <p>2. Option to remove Fintech</p>
                                 </div>
                         </div>
+                        <h1 className="last-tpm-heading">What I learned</h1>
+                    <p>- Rushing to the high fidelity stage might be tempting, but most of the work is everything that happens before that step.</p>
+                    <p>- Design can never be an isolated process. Product & Business teams can give great insight into the features you’re working on. Be sure to involve them.</p>
                     </div>
-                    
                 </div>
             </div>
             <Footer></Footer>

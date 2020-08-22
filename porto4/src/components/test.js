@@ -179,7 +179,7 @@ export default class Test extends React.Component {
                                 <p>1. Size of each circle is relative to the amount of people in each business unit</p>
                             </div>
                         </div>
-                    <h1 className="sprint-section-header">Learnings</h1>
+                    <h1 className="sprint-section-header">What I learned</h1>
                     <p>- Rushing to the high fidelity stage might be tempting, but most of the work is everything that happens before that step.</p>
                     <p>- Design can never be an isolated process. Product & Business teams can give great insight into the features you’re working on. Be sure to involve them.</p>
                     </div>
