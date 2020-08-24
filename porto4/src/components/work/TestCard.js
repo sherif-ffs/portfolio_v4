@@ -9,7 +9,6 @@ import { Link } from 'react-router-dom';
 export default class TestCard extends React.Component {
 
     render() {
-        console.log('this.props.color: ', this.props.color)
         return (
             <div className="card-wrapper" id={this.props.position}>
                 <div className="card-content">
@@ -35,7 +34,6 @@ export default class TestCard extends React.Component {
                         </>
                         :
                         <Link to={`projects/${this.props.project}`} className="view-case">
-                            {/* <p className="view-case-study">View Case Study</p>  */}
                             <Button className="view-case-study">View Case Study</Button>
                         </Link>
                         }

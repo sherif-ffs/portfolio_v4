@@ -92,10 +92,12 @@
     background-color: #d94458!important;
     font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif!important;
     margin-top: 1.5vh!important;
+    box-shadow: 0px 3px 5px rgba(34, 34, 34, 0.3);
 }
 .view-case-study:hover {
-    background-color: #bd2d41!important;
+    /* background-color: #bd2d41!important; */
     text-decoration: none!important;
+    box-shadow: 0px 5px 7px rgba(34, 34, 34, 0.3);
 }
 .view-case:hover {
     text-decoration: none;

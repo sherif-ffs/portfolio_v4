@@ -79,7 +79,7 @@ export default class Test extends React.Component {
                                 <p>3. Difficult to understand your teammates roles</p>
                                 <p>4. Difficult to understand your teams project and tools they use</p>
                                 <p>5. It is hard to get to know your coworkers</p>
-                                <p>6. It is difficult to get familar with F*****y as a company</p>
+                                <p>6. It is difficult to get familar with Financial as a company</p>
                             </div>
                         </div>
                         <h1 className="sprint-section-header">Competitive Analysis</h1>

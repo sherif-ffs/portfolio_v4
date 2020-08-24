@@ -75,13 +75,13 @@ export default class Resume extends React.Component {
                         <div className="tools">
                             <h1>Skills</h1>
                             <p>UI/UX Design</p>
-                            <p>User Research</p>
-                            <p>User Testing</p>
                             <p>Front-End Development</p>
-                            <p>Responsive Web Design</p>
                             <p>Data Visualization</p>
-                            <p>Prototyping</p>
+                            <p>Responsive Web Design</p>
                             <p>Wireframing</p>
+                            <p>User Testing</p>
+                            <p>Prototyping</p>
+                            <p>User Research</p>
                         </div>
                     </div>
                 </div>

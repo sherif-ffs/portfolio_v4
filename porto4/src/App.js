@@ -163,9 +163,9 @@ class App extends React.Component {
       },
       {
         name: "Spirited Away Theme",
-        type: 'design',
+        type: 'web development',
         id: 11,
-        tags: ['design','vs-code extension'],
+        tags: ['web development','vs-code extension', 'miscellaneous'],
         github: 'https://github.com/sherif-ffs/vscode-theme',
         live: 'https://sherif-ffs.github.io/spirited-away-site.github.io/',
         blurb: `VS Code theme loosely based on Studio Ghibli's Spirited Away`,

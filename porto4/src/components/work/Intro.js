@@ -1,6 +1,6 @@
 import React from 'react'
 import Anime from "@mollycule/react-anime";
-import animejs, { AnimeInstance } from "animejs";
+import animejs from "animejs";
 
 import '../../styles/work/intro.css'
 

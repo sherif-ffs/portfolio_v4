@@ -8,7 +8,6 @@
     font-size: 1.4rem;
 }
 .filter-wrappers {
-    /* width: 45vw; */
     height: min-content;
     margin-left: 8vw;
     margin-top: 2vh;
@@ -17,7 +16,6 @@
 }
 .filter-tab {
     display: flex;
-    /* flex: 1; */
     margin: 0;
     font-size: 1.1rem;
     padding-left: 1.5rem;
@@ -45,7 +43,6 @@ cursor: pointer;
 }
 .active-filter-tab {
     background-color: #D94558;
-    /* font-weight: 500; */
     color: #fafafa;
 }
 

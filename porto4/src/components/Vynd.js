@@ -417,22 +417,22 @@ export default class Vynd extends React.Component {
                   <p>This last one ties in nicely with the social aspect, I think that allowing users to review certain wineries or wine events will go a long way in attracting younger people to wineries and wine events, since word of mouth is incredibly important when considering events or anything you will spend money on.</p>
                   <h1>For Development</h1>
                   <p>Since we plan on bringing this product to market we really have to design with development in mind. Being a small group of students we have to design around what we can implement and that means utilizing as many APIs, and available technologies as possible to help lighten our load.</p>
-                  <h1>API for Events and in app purchases: <a href="https://www.eventbrite.com/platform/api#/reference/order" target="_blank">EventBrite</a></h1>
+                  <h1>API for Events and in app purchases: <a href="https://www.eventbrite.com/platform/api#/reference/order" target="_blank" rel="noopener noreferrer">EventBrite</a></h1>
                   <ul>
                       <li>Most wineries in Hudson Valley use eventbrite to handle ticket sales</li>
                       <li>Allows users to buy tickets and earn badges easily through our application</li>
                   </ul>
-                  <h1>Database for wines in Hudson Valley: <a href="https://www.wine-searcher.com/api" target="_blank">Wine-searcher</a></h1>
+                  <h1>Database for wines in Hudson Valley: <a href="https://www.wine-searcher.com/api" target="_blank" rel="noopener noreferrer">Wine-searcher</a></h1>
                   <ul>
                       <li>Used by 95,905 wine businesses</li>
                       <li>210 million searches a year</li>
                       <li>Has a specific database for the hudson river valley region</li>
                   </ul>
-                  <h1>Data for map functionality: <a href="https://developer.foursquare.com/" target="_blank">Foursquare</a></h1>
+                  <h1>Data for map functionality: <a href="https://developer.foursquare.com/" target="_blank" rel="noopener noreferrer">Foursquare</a></h1>
                   <ul>
                       <li>105 million places</li>
                   </ul>
-                  <h1>Technology for scanning functionalith: <a href="https://services.tineye.com/WineEngine" target="_blank">WineEngine</a></h1>
+                  <h1>Technology for scanning functionalith: <a href="https://services.tineye.com/WineEngine" target="_blank" rel="noopener noreferrer">WineEngine</a></h1>
                   <ul>
                       <li>Technology specifically made to scan wine labels</li>
                   </ul>

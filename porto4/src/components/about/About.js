@@ -4,6 +4,7 @@ import '../../styles/about/about.css'
 import EducationExperience from './EducationExperience'
 import sherif from '../../assets/sherif.png'
 import Footer from '../Footer'
+
 export default class About extends React.Component {
     render() {
         return (

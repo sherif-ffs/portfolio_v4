@@ -31,7 +31,7 @@ export default class Footer extends React.Component {
                         </div>
                     </div>
                     <div className="corny">
-                        <p>Designed and coded with ☕ and 🎵</p>
+                        <p>Designed and coded with <span role="img" aria-label='jsx-a11y/accessible-emoji'>☕</span> and <span role="img" aria-label='jsx-a11y/accessible-emoji'>🎵</span></p>
                     </div>
                 </div>
             </div>

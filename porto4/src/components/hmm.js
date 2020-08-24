@@ -41,29 +41,31 @@ export default class TPM extends React.Component {
                     <div>
                         <h1>Backstory</h1>
                         <p>The Third-Party Marketplace is an online store where firms can explore over 100 third-party 
-                            technology solutions for CRM, financial planning, analytics, portfolio management, office tools and more. 
+                            technology solutions for CRM, financial planning, analytics, portfolio management, office tools and more. The Third-Party Marketplace 
+                            has roughly 2000 monthly users.
                         </p>
                     </div>
                     <div>
                         <h1>Problem</h1>
-                        <p>It is currently very hard for users to come in and find what they want on the Third-Party Marketplace. 
+                        <p>It is currently very hard for users to come in and find what they want on the Third-Party Marketplace. There is not enough
+                            useful information on the cards on the landing page, or the overview page for firms to make an informed decision.
                         </p>
                     </div>
                     <div>
                         <h1>Research</h1>
-                        <p>I conducted three user interviews to try and better understand the problems with the current experience
+                        <p>I conducted three user interviews with users and stakeholders to try and better understand the problems with the current experience.
                         </p>
                     </div>
                     <div>
                         <h1>Research Results</h1>
                         <div className="tpm-research-results-wrapper">
-                            <h1>It's hard for users to find what they want on Third-Party Marketplace.</h1>
+                            <h1>It's hard for users to find what they want on Third-Party Marketplace</h1>
                             <h3><i>"Right now there is basically just a list of names, and from there I have to do my own research<br />- Interviewee 1</i></h3>
-                            <p>1. Not enough useful information on the cards.</p>
+                            <p>1. Not enough useful information on the cards</p>
                             <p>2. Overview page is not very helpful when trying to set up a demo.</p>
-                            <p>3. Price is extremely important, but there is little information about it anywhere on the Third-Party Marketplace.</p>
-                            <p>4. Clients care <strong>A LOT</strong> about what other firms are saying.</p>
-                            <p>5. We want to promote FinTech's with strategic integrations.</p>
+                            <p>3. Price is extremely important, but there is little information about it anywhere on the Third-Party Marketplace</p>
+                            <p>4. Clients care <strong>A LOT</strong> about what other firms are saying</p>
+                            <p>5. We want to promote FinTech's with strategic integrations</p>
                         </div>
                     </div>
                     <div className="tpm-redesign">
@@ -80,9 +82,9 @@ export default class TPM extends React.Component {
                                 <div>
                                     <h1>New Features</h1>
                                     <p>1. Filtering by category/integration tier</p>
-                                    <p>2. Distinct icons for Fintech's that are already<br /> integrated and those that are strategically<br /> integrated with Financial Company.</p>
+                                    <p>2. Distinct icons for Fintech's that are already<br /> integrated and those that are strategically<br /> integrated with Financial Company</p>
                                     <p>3. Searchbar</p>
-                                    <p>4. Fintech Analyzer, which is a wizard that <br /> reccomends a Fintech based on a series of < br/> of questions.</p>
+                                    <p>4. Fintech Analyzer, which is a wizard that <br /> reccomends a Fintech based on a series of < br/> of questions</p>
                                 </div>
                         </div>
                         <h1 className="tpm-heading">New Overview Page</h1>
@@ -90,10 +92,10 @@ export default class TPM extends React.Component {
                                 <img src={overview_first}></img>
                                 <div>
                                     <h1>New Features</h1>
-                                    <p>1. In depth description about what Black Diamond <br />is and does.</p>
+                                    <p>1. In depth description about what Black Diamond <br />is and does</p>
                                     <p>2. List of active and inactive features</p>
                                     <p>3. Aggregated rating</p>
-                                    <p>4. Icon showing that your firm is currently <br />integrated with this Fintech.</p>
+                                    <p>4. Icon showing that your firm is currently <br />integrated with this Fintech</p>
                                 </div>
                         </div>
                         <h1 className="tpm-heading">Ratings Section</h1>
@@ -102,7 +104,7 @@ export default class TPM extends React.Component {
                                 <div>
                                     <h1>New Features</h1>
                                     <p>1. Button to rate Fintech</p>
-                                    <p>2. Breakdown of rating into different categories.</p>
+                                    <p>2. Breakdown of rating into different categories</p>
                                     <p>3. Percent of users which reccomend this Fintech</p>
                                 </div>
                         </div>
