@@ -27,10 +27,10 @@
 .intro-wrapper h4 {
     font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
     color: #323748;
-    opacity: .6;
-    width: 70%;
+    opacity: .8!important;
+    width: 80%;
     line-height: 5vh;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     font-kerning: normal;
     margin-top: 5vh;
     font-weight: 500;

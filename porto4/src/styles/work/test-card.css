@@ -129,7 +129,18 @@
     color: #d94458;
     opacity: 1!important;
 }
-
+.fidelity-span {
+    text-decoration: none;
+    font-weight: 900;
+    color: #779b33;
+    opacity: 1!important;
+}
+.wine-blurb {
+    text-decoration: none;
+    font-weight: 600;
+    color: #d34859;
+    opacity: 1!important;
+}
 @media (max-width: 600px) {
     .card-wrapper {
         height: min-content;

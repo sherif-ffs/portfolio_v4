@@ -23,7 +23,18 @@ import launchpad from './assets/thumbnails/launchpad.svg'
 import tpm from './assets/thumbnails/tpm.svg'
 import transmission from './assets/thumbnails/transmission.svg'
 
+import './styles/work/test-card.css'
+
 class App extends React.Component {
+  tpmBlurb = 
+  <p>
+    As part of my internship with <a href="https://clearingcustody.fidelity.com/app/item/RD_9883092/integration-xchange.html" className="fidelity-span" target="_blank">Fidelity Investments</a>, I helped redesign Fidelity's Third-Party Marketplace, an online store for Fintech integrations with over 2000 annual users.
+  </p>
+
+  wineBlurb = 
+  <p>
+    I led design on a <a href="https://www.nsf.gov/news/special_reports/i-corps/" target="_blank" className="wine-blurb">NSF I-Corps</a> funded project to gamify the winery & wine event experience.
+  </p>
 
   state = {
     projects: [
@@ -83,7 +94,8 @@ class App extends React.Component {
         tags: ['ui/ux', 'figma', 'internship'],
         github: null,
         live: null,
-        blurb: "As part of my internship with Fidelity Investments, I helped redesign Fidelity's Third-Party Marketplace, an online store for Fintech integrations with over 2000 annual users.",
+        // blurb: "As part of my internship with Fidelity Investments, I helped redesign Fidelity's Third-Party Marketplace, an online store for Fintech integrations with over 2000 annual users.",
+        blurb: this.tpmBlurb,
         thumbnail: tpm,
         project: 'tpm',
         color: '#d3696f'
@@ -131,7 +143,7 @@ class App extends React.Component {
         tags: ['data visualization', 'charts.js', 'sheets.js'],
         github: 'https://github.com/sherif-ffs/dronewar',
         live: 'https://the-drone-program.herokuapp.com/index.html',
-        blurb: 'historical data about every reported covert united states drone strike until the beginning of 2020.',
+        blurb: 'Historical data about every reported covert united states drone strike until the beginning of 2020.',
         thumbnail: drones,
         project: null,
         color: '#d3696f'
@@ -143,7 +155,8 @@ class App extends React.Component {
         tags: ['design','figma'],
         github: null,
         live: null,
-        blurb: `I led design on a NSF I-Corps funded project to gamify the winery & wine event experience.`,
+        // blurb: `I led design on a NSF I-Corps funded project to gamify the winery & wine event experience.`,
+        blurb: this.wineBlurb,
         thumbnail: vynd,
         project: 'vynd',
         color: '#d3696f'
