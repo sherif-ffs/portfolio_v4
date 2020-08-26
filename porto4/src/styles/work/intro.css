@@ -5,9 +5,9 @@
     height: min-content;
 }
 .intro-wrapper h3 {
-    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
     color: #323748;
-    opacity: .8;
+    opacity: .6;
     font-size: 1.5rem;
     font-weight: 400;
     font-kerning: normal;
@@ -25,15 +25,15 @@
     margin-top: -1vh!important;
 }
 .intro-wrapper h4 {
-    font-family: 'Avenir','Lato', Helvetica,Arial , sans-serif;
+    font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
     color: #323748;
-    opacity: .8;
-    width: 65%;
+    opacity: .6;
+    width: 70%;
     line-height: 5vh;
     font-size: 1.5rem;
     font-kerning: normal;
     margin-top: 5vh;
-    font-weight: 100;
+    font-weight: 500;
 }
 @media screen and (min-width: 1900px) {
     .intro-wrapper h3 {

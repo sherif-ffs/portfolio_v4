@@ -84,7 +84,7 @@ export default class TPM extends React.Component {
                                     <p>1. Filtering by category/integration tier</p>
                                     <p>2. Distinct icons for Fintech's that are already<br /> integrated and those that are strategically<br /> integrated with Financial Company</p>
                                     <p>3. Searchbar</p>
-                                    <p>4. Fintech Analyzer, which is a wizard that <br /> reccomends a Fintech based on a series of < br/> of questions</p>
+                                    <p>4. Fintech Analyzer, which is a wizard that <br /> recommends a Fintech based on a series of < br/> of questions</p>
                                 </div>
                         </div>
                         <h1 className="tpm-heading">New Overview Page</h1>
@@ -105,7 +105,7 @@ export default class TPM extends React.Component {
                                     <h1>New Features</h1>
                                     <p>1. Button to rate Fintech</p>
                                     <p>2. Breakdown of rating into different categories</p>
-                                    <p>3. Percent of users which reccomend this Fintech</p>
+                                    <p>3. Percent of users which recommend this Fintech</p>
                                 </div>
                         </div>
                         <h1 className="tpm-heading">Rate Fintech Modal</h1>
