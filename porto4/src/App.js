@@ -46,7 +46,7 @@ class App extends React.Component {
         tags: ['data visualization', 'd3.js', 'svg', 'topojson'],
         github: 'https://github.com/sherif-ffs/we-are-number-1.github.io',
         live: 'https://sherif-ffs.github.io/we-are-number-1.github.io/',
-        blurb: "Website built using D3.js, svg, and topojson to compare countries and continents on 30+ metrics. Features include, an interactive heatmap, customizeable bar-charts, and scatterplots to show coorelation between certain metrics.",
+        blurb: "Website built using D3.js, svg, and topojson to compare countries and continents on 30+ metrics. Features include, an interactive heat-map, customizable bar-charts, and scatterplots to show correlation between certain metrics.",
         thumbnail: map,
         project: null,
         color: '#d3696f'
