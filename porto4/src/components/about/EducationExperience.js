@@ -8,6 +8,11 @@ export default class Resume extends React.Component {
                 <div className="experience">
                     <h1>Experience</h1>
                     <div className="company">
+                        <h3 className="company-title">Front-End Engineer</h3>
+                        <a href="https://enerknol.com/" target="_blank" rel="noopener noreferrer">EnerKnol</a>
+                        <h3 className="timeline">October 2020 - Present</h3>
+                    </div>
+                    <div className="company">
                         <h3 className="company-title">UX Design Intern</h3>
                         <a href="https://www.fidelity.com/" target="_blank" rel="noopener noreferrer">Fidelity Investments</a>
                         <h3 className="timeline">June 2020 - August 2020</h3>
