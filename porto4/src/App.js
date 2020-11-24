@@ -76,6 +76,19 @@ class App extends React.Component {
         color: '#d3696f'
       },
       {
+        name: "Vynd",
+        type: 'design',
+        id: 12,
+        tags: ['design','figma'],
+        github: null,
+        live: null,
+        // blurb: `I led design on a NSF I-Corps funded project to gamify the winery & wine event experience.`,
+        blurb: this.wineBlurb,
+        thumbnail: vynd,
+        project: 'vynd',
+        color: '#d3696f'
+      },
+      {
         name: "You're Not Yelping",
         type: 'web development',
         id: 4,
@@ -146,19 +159,6 @@ class App extends React.Component {
         blurb: 'Historical data about every reported covert united states drone strike until the beginning of 2020.',
         thumbnail: drones,
         project: null,
-        color: '#d3696f'
-      },
-      {
-        name: "Vynd",
-        type: 'design',
-        id: 12,
-        tags: ['design','figma'],
-        github: null,
-        live: null,
-        // blurb: `I led design on a NSF I-Corps funded project to gamify the winery & wine event experience.`,
-        blurb: this.wineBlurb,
-        thumbnail: vynd,
-        project: 'vynd',
         color: '#d3696f'
       },
       {
