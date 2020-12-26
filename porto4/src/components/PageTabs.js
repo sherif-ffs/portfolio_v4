@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import resume from '../resumes/resume_web_v2.pdf'
+import newResume from '../resumes/sherif_resume_design.pdf'
 
 import '../styles/pageTabs.css'
 export default class PageTabs extends React.Component {
@@ -53,7 +54,7 @@ export default class PageTabs extends React.Component {
                           >
                       Resume
                   </Link> */}
-                  <a href={resume} target="_blank" rel="noopener noreferrer" className="resume-link">Resume</a>
+                  <a href={newResume} target="_blank" rel="noopener noreferrer" className="resume-link">Resume</a>
               </li>
           </div>
         </ul>

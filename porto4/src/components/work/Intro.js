@@ -22,10 +22,11 @@ export default class Intro extends React.Component {
                 >
                     <h3>Hi! 👋</h3>
                     <h1 className="intro-title">I’m Sherif Elmetwally.</h1>
-                    <h1 className="second-title">I create things for the web.</h1>
-                    <h4>
+                    <h1 className="second-title">I <span>create</span> Digital Products.</h1>
+                    {/* <h4>
                     I'm a designer & developer interested in product design, web development, and data visualization.
-                     </h4>
+                     </h4> */}
+                     <h4>I'm a Product Designer with a knack for tinkering with code, a love for well crafted user experiences, and an interest in accessible data visualizations.</h4>
                 </Anime>
             </div>
         )

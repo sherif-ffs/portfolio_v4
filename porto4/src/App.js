@@ -163,9 +163,9 @@ class App extends React.Component {
       },
       {
         name: "Quentin Tarantino",
-        type: 'web development',
+        type: 'design',
         id: 10,
-        tags: ['web development','photoshop', 'html/css/js' ],
+        tags: ['design','photoshop', 'html/css/js' ],
         github: 'https://github.com/sherif-ffs/quentin',
         live: 'https://quentin-tarantino.herokuapp.com/index.html',
         blurb: `Inspired by the team at https://paravelinc.com/ I decided to copy their "The Many Faces Of" series and make a fanpage of sorts for one of my favorite directors, Quentin Tarantino.`,
@@ -175,9 +175,9 @@ class App extends React.Component {
       },
       {
         name: "Spirited Away Theme",
-        type: 'web development',
+        type: 'design',
         id: 11,
-        tags: ['web development','vs-code extension', 'miscellaneous'],
+        tags: ['design','vs-code extension', 'miscellaneous'],
         github: 'https://github.com/sherif-ffs/vscode-theme',
         live: 'https://sherif-ffs.github.io/spirited-away-site.github.io/',
         blurb: `VS Code theme loosely based on Studio Ghibli's Spirited Away.`,
