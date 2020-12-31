@@ -30,9 +30,9 @@ export default class FilterTabs extends React.Component {
                         <div className="filter-tab second-tab" onClick={e => this.props.filterWebDev(e)}>
                             Web Development ({this.props.projects.filter(project => project.type === 'web development').length})
                         </div>
-                        <div className="filter-tab third-tab" onClick={e => this.props.filterDesigns(e)}>
+                        {/* <div className="filter-tab third-tab" onClick={e => this.props.filterDesigns(e)}>
                             Design ({this.props.projects.filter(project => project.type === 'design').length})
-                        </div>
+                        </div> */}
                         <div className="filter-tab last-tab" onClick={e => this.props.filterDataViz(e)}>
                             Data Visualization ({this.props.projects.filter(project => project.type === 'data viz').length})
                         </div>
@@ -50,9 +50,9 @@ export default class FilterTabs extends React.Component {
                         <div className="filter-tab second-tab" onClick={e => this.props.filterWebDev(e)}>
                             Web Dev
                         </div>
-                        <div className="filter-tab third-tab" onClick={e => this.props.filterDesigns(e)}>
+                        {/* <div className="filter-tab third-tab" onClick={e => this.props.filterDesigns(e)}>
                             Design
-                        </div>
+                        </div> */}
                         <div className="filter-tab last-tab" onClick={e => this.props.filterDataViz(e)}>
                             Data Viz
                         </div>

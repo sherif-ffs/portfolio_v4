@@ -63,31 +63,19 @@ class App extends React.Component {
         project: null,
         color: '#d3696f'
       },
-      {
-        name: "LaunchPad",
-        type: 'design',
-        id: 3,
-        tags: ['ui/ux', 'figma', 'internship', 'google design sprint'],
-        github: null,
-        live: null,
-        blurb: 'As part of my summer internship I participated in a two week google design sprint to improve the remote onboarding experience for new Fidelity UXD Hires.',
-        thumbnail: launchpad,
-        project: 'launchpad',
-        color: '#d3696f'
-      },
-      {
-        name: "Vynd",
-        type: 'design',
-        id: 12,
-        tags: ['design','figma'],
-        github: null,
-        live: null,
-        // blurb: `I led design on a NSF I-Corps funded project to gamify the winery & wine event experience.`,
-        blurb: this.wineBlurb,
-        thumbnail: vynd,
-        project: 'vynd',
-        color: '#d3696f'
-      },
+      // {
+      //   name: "LaunchPad",
+      //   type: 'design',
+      //   id: 3,
+      //   tags: ['ui/ux', 'figma', 'internship', 'google design sprint'],
+      //   github: null,
+      //   live: null,
+      //   blurb: 'As part of my summer internship I participated in a two week google design sprint to improve the remote onboarding experience for new Fidelity UXD Hires.',
+      //   thumbnail: launchpad,
+      //   project: 'launchpad',
+      //   color: '#d3696f'
+      // },
+
       {
         name: "You're Not Yelping",
         type: 'web development',
@@ -100,19 +88,19 @@ class App extends React.Component {
         project: null,
         color: '#C0212E'
       },
-      {
-        name: "Third-Party Marketplace",
-        type: 'design',
-        id: 5,
-        tags: ['ui/ux', 'figma', 'internship'],
-        github: null,
-        live: null,
-        // blurb: "As part of my internship with Fidelity Investments, I helped redesign Fidelity's Third-Party Marketplace, an online store for Fintech integrations with over 2000 annual users.",
-        blurb: this.tpmBlurb,
-        thumbnail: tpm,
-        project: 'tpm',
-        color: '#d3696f'
-      },
+      // {
+      //   name: "Third-Party Marketplace",
+      //   type: 'design',
+      //   id: 5,
+      //   tags: ['ui/ux', 'figma', 'internship'],
+      //   github: null,
+      //   live: null,
+      //   // blurb: "As part of my internship with Fidelity Investments, I helped redesign Fidelity's Third-Party Marketplace, an online store for Fintech integrations with over 2000 annual users.",
+      //   blurb: this.tpmBlurb,
+      //   thumbnail: tpm,
+      //   project: 'tpm',
+      //   color: '#d3696f'
+      // },
       {
         name: "Heddit",
         type: 'web development',
@@ -125,18 +113,31 @@ class App extends React.Component {
         project: null,
         color: '#d3696f'
       },
-      {
-        name: "Outbound Transmissions",
-        type: 'design',
-        id: 7,
-        tags: ['ui/ux', 'figma', 'internship'],
-        github: null,
-        live: null,
-        blurb: 'As part of my summer internship I worked on the redesign of outbound transmissions manuals.',
-        thumbnail: transmission,
-        project: 'outbound',
-        color: '#d3696f'
-      },
+      // {
+      //   name: "Outbound Transmissions",
+      //   type: 'design',
+      //   id: 7,
+      //   tags: ['ui/ux', 'figma', 'internship'],
+      //   github: null,
+      //   live: null,
+      //   blurb: 'As part of my summer internship I worked on the redesign of outbound transmissions manuals.',
+      //   thumbnail: transmission,
+      //   project: 'outbound',
+      //   color: '#d3696f'
+      // },
+      // {
+      //   name: "Vynd",
+      //   type: 'design',
+      //   id: 12,
+      //   tags: ['design','figma'],
+      //   github: null,
+      //   live: null,
+      //   // blurb: `I led design on a NSF I-Corps funded project to gamify the winery & wine event experience.`,
+      //   blurb: this.wineBlurb,
+      //   thumbnail: vynd,
+      //   project: 'vynd',
+      //   color: '#d3696f'
+      // },
       {
         name: "Trello Clone",
         type: 'web development',

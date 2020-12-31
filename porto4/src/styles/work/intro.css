@@ -24,6 +24,13 @@
 .second-title {
     margin-top: -1vh!important;
 }
+.second-title span { 
+    color: #d94458;
+    padding: 0;
+    /* text-shadow: 0px 1px #971829; */
+    width: min-content;
+    white-space: nowrap;
+}
 .intro-wrapper h4 {
     font-family: 'Lato','Avenir', Helvetica,Arial , sans-serif;
     color: #323748;
