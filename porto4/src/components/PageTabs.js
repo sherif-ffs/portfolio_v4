@@ -17,6 +17,7 @@ export default class PageTabs extends React.Component {
     this.setState({ currentPage: tabName })
   }
 
+  
   render () {
       return (
         <ul className='nav page-tabs'>
